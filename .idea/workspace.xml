@@ -1,101 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="Authentification">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/.env.example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Console/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Exceptions/Handler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Auth/ForgotPasswordController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Auth/LoginController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Auth/RegisterController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Auth/ResetPasswordController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Auth/VerificationController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/Authenticate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/CheckForMaintenanceMode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/EncryptCookies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/TrimStrings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/TrustProxies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Providers/AppServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Providers/AuthServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Providers/BroadcastServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Providers/EventServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Providers/RouteServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/bootstrap/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/bootstrap/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/broadcasting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/filesystems.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/hashing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/logging.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/factories/UserFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/svg/403.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/svg/404.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/svg/500.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/svg/503.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/web.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/components/ExampleComponent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/sass/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/sass/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/welcome.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/routes/api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/routes/channels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/routes/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/routes/web.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/app/public/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/cache/data/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/testing/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/framework/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/tests/CreatesApplication.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/tests/Feature/ExampleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/tests/Unit/ExampleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/webpack.mix.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notes PHP.docx" afterPath="$PROJECT_DIR$/Notes PHP.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SiteWebUQO.iml" afterPath="$PROJECT_DIR$/.idea/SiteWebUQO.iml" />
+    <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -206,6 +112,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -237,7 +144,7 @@
       <workItem from="1537233073449" duration="576000" />
       <workItem from="1539018271825" duration="736000" />
       <workItem from="1540166061167" duration="4620000" />
-      <workItem from="1543259322574" duration="1537000" />
+      <workItem from="1543259322574" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1539018937757</created>
@@ -288,23 +195,30 @@
       <option name="project" value="LOCAL" />
       <updated>1540173287952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test pour fix php artisan">
+      <created>1543260903142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543260903143</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7749000" />
+    <option name="totallyTimeSpent" value="7839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -326,7 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Authentification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authentification" />
+    <MESSAGE value="Test pour fix php artisan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test pour fix php artisan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
