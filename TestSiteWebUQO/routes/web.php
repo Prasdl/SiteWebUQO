@@ -21,6 +21,8 @@ Route::post('/contact/submit', 'MessagesController@submit');
 
 */
 
+
+// Route les pages de la racine
 Route::get('/', function () {
     return view('accueil');
 });
@@ -46,3 +48,37 @@ Route::get('/', function () {
 Route::get('/partenaire', function () {
     return view('partenaires');
 });
+
+// Route les pages de etudiant
+Route::get('/etudiant/cycledeux', function () {
+    return view('cycledeux');
+});
+
+Route::get('/etudiant/cycletrois', function () {
+    return view('cycletrois');
+});
+
+Route::get('/etudiant/cycleungenie', function () {
+    return view('cycleungenie');
+});
+
+Route::get('/etudiant/cycleuninfo', function () {
+    return view('cycleuninfo');
+});
+
+// Route les pages de programmes
+Route::get('/programmes/cycledeuxtrois', function () {
+    return view('cycledeuxtrois');
+});
+
+Route::get('/programmes/premiercycle', function () {
+    return view('premiercycle');
+});
+
+//
+Route::get('/programmes/plancours', function () {
+    return view('plancours');
+});
+
+
+

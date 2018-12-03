@@ -99,10 +99,10 @@
     <a href="/informatique">INFO</a>
     <a href="/genie">GÉNIE</a>
     <p>PROGRAMMES D'ÉTUDES</p>
-    <a href="#">1er cycle</a>
-    <a href="#">2ᵉ et 3ᵉ cycles</a>
-    <a href="#">Plans de cours</a>
-    <a href="#">Moodle</a>
+    <a href="/programmes/premiercycle">1er cycle</a>
+    <a href="/programmes/cycledeuxtrois">2ᵉ et 3ᵉ cycles</a>
+    <a href="/programmes/plancours">Plans de cours</a>
+    <a href="https://moodle.uqo.ca/">Moodle</a>
     <p>ÉTUDIANTS</p>
     <a href="/etudiant/cycleuninfo">1er cycle informatique</a>
     <a href="/etudiant/cycleungenie">1er cycle génie</a>

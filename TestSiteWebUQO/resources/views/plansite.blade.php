@@ -15,9 +15,9 @@
 
         <p>Programmes d'études</p>
         <ul>
-            <li><p><a href="">Programmes d'études de 1er cycle</a></p></li>
-            <li><p><a href="">Programmes d'études de 2e et 3e cycles</a></p></li>
-            <li><p><a href="">Plans de cours</a></p></li>
+            <li><p><a href="/programmes/premiercycle">Programmes d'études de 1er cycle</a></p></li>
+            <li><p><a href="/programmes/cycledeuxtrois">Programmes d'études de 2e et 3e cycles</a></p></li>
+            <li><p><a href="/programmes/plancours">Plans de cours</a></p></li>
 
             <ul>
                 <li><p>Plans de cours par programmes</p></li>
