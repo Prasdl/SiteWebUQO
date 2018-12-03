@@ -109,11 +109,11 @@
     <a href="/etudiant/cycledeux">2ᵉ cycle</a>
     <a href="/etudiant/cycletrois">3ᵉ cycle</a>
     <p>RECHERCHE</p>
-    <a href="#">Domaines de spécialisation</a>
-    <a href="#">Équipes de recherche</a>
+    <a href="/recherche/domaine">Domaines de spécialisation</a>
+    <a href="/recherche/equipe">Équipes de recherche</a>
     <p>PERSONNEL</p>
-    <a href="#">Professeurs</a>
-    <a href="#">Personnel</a>
+    <a href="/personnel/personnel">Professeurs</a>
+    <a href="/personnel/professeurs">Personnel</a>
     <p>EMPLOIS</p>
     <a href="#">Créer une offre d'emploi</a>
     <a href="#">Offres d'emplois courantes</a>
