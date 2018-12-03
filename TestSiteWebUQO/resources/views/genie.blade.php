@@ -1,6 +1,6 @@
 @extends('layouts.template')
 
-        <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -28,14 +28,14 @@
     <p>Responsable des programmes de bourses à l'UQO</p>
     <p>Téléphone : 819 595-3900, poste 1684</p>
     <p>Pavillon Lucien-Brault, bureau B-0170</p>
-    <p>paul.courtemanche@uqo.ca</p>  <!–– To Do faire mailto ––>
+    <p>paul.courtemanche@uqo.ca</p>                                                                                     <!–– To Do faire mailto ––>
 
     <h2><a href="https://uqo.ca/stages">Formation pratique intégrée en génie</a></h2>
     <p>Geneviève Biron</p>
     <p>Coordonnatrice de stage - programmes coopératifs</p>
     <p>Téléphone : 819 595-3900, poste 1762</p>
     <p>Pavillon Alexandre-Taché, bureau F-0242</p>
-    <p>genevieve.biron@uqo.ca</p>  <!–– To Do faire mailto ––>
+    <p>genevieve.biron@uqo.ca</p>                                                                                       <!–– To Do faire mailto ––>
 
 @endsection
 

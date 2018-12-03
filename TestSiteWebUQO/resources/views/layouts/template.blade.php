@@ -83,31 +83,31 @@
     <nav class="navbar navbar-inverse">
         <a class="navbar-brand" href="https://uqo.ca/">UQO</a>
         <ul class="nav navbar-nav">
-            <li><a href="#">Acceuil</a></li>
-            <li><a href="#">Partenaires éducatifs</a></li>
-            <li><a href="#">Intranet de l'UQO</a></li>
-            <li><a href="#">Courriel</a></li>
-            <li><a href="#">Bibliothèque</a></li>
-            <li><a href="#">Intranet</a></li>
-            <li><a href="#">Plan du site</a></li>
-            <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+            <li><a href="/">Acceuil</a></li>
+            <li><a href="/partenaire">Partenaires éducatifs</a></li>
+            <li><a href="https://authentification.uqo.ca/cas/login?service=https%3A%2F%2Fuqo.ca%2Fuser">Intranet de l'UQO</a></li>
+            <li><a href="">Courriel</a></li>
+            <li><a href="https://uqo.ca/biblio">Bibliothèque</a></li>
+            <li><a href="">Intranet</a></li>
+            <li><a href="/plansite">Plan du site</a></li>
+            <li><a href=""><span class="glyphicon glyphicon-search"></span></a></li>
         </ul>
     </nav>
 </div>
 
 <div class="sidenav">
-    <a href="#">INFO</a>
-    <a href="#">GÉNIE</a>
+    <a href="/informatique">INFO</a>
+    <a href="/genie">GÉNIE</a>
     <p>PROGRAMMES D'ÉTUDES</p>
     <a href="#">1er cycle</a>
     <a href="#">2ᵉ et 3ᵉ cycles</a>
     <a href="#">Plans de cours</a>
     <a href="#">Moodle</a>
     <p>ÉTUDIANTS</p>
-    <a href="#">1er cycle informatique</a>
-    <a href="#">1er cycle génie</a>
-    <a href="#">2ᵉ cycle</a>
-    <a href="#">3ᵉ cycle</a>
+    <a href="/etudiant/cycleuninfo">1er cycle informatique</a>
+    <a href="/etudiant/cycleungenie">1er cycle génie</a>
+    <a href="/etudiant/cycledeux">2ᵉ cycle</a>
+    <a href="/etudiant/cycletrois">3ᵉ cycle</a>
     <p>RECHERCHE</p>
     <a href="#">Domaines de spécialisation</a>
     <a href="#">Équipes de recherche</a>
