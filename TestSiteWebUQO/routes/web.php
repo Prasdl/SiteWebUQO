@@ -75,10 +75,28 @@ Route::get('/programmes/premiercycle', function () {
     return view('premiercycle');
 });
 
-//
 Route::get('/programmes/plancours', function () {
     return view('plancours');
 });
+
+// Route les pages de recherche
+Route::get('/recherche/domaine', function () {
+    return view('domaine');
+});
+
+Route::get('/recherche/equipe', function () {
+    return view('equipe');
+});
+
+// Route les pages de personnel
+Route::get('/personnel/personnel', function () {
+    return view('personnel');
+});
+
+Route::get('/personnel/professeurs', function () {
+    return view('professeurs');
+});
+
 
 
 
