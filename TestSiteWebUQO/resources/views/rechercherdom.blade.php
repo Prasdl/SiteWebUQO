@@ -45,6 +45,7 @@
         <li><p>Marek Zaremba &nbsp; Réseaux neuronaux, systèmes adaptatifs, graphisme par ordinateur, automatique systèmes en temps réel, traitement réparti.</p></li>
     </ul>
 
+
 @endsection
 
 </body>
