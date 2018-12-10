@@ -41,14 +41,14 @@
                 </ul>
             </ul>
 
-            <li><p><a href="">Module de l'informatique</a></p></li>
-            <li><p><a href="">Module de l'ingénierie</a></p></li>
+            <li><p><a href="/informatique">Module de l'informatique</a></p></li>
+            <li><p><a href="/genie">Module de l'ingénierie</a></p></li>
         </ul>
     </ul>
 
     <p>Étudiants de 1er cycle</p>
     <ul>
-        <li><p><a href="">Une séance d'exercices? Un travail dirigé? Un devoir?</a></p></li>
+        <li><p><a href="/etudiant/cycleuninfo">Une séance d'exercices? Un travail dirigé? Un devoir?</a></p></li>
         <li><p>Horaire des activités</p></li>
         <ul>
             <ul>
