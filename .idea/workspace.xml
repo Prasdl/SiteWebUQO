@@ -1,254 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="-Migration&#10;-Actions du controlleur pour la DB (Toujours pas fonctionnel)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_blog.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/backtotop.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/blog.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/breadcrumb.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/buttons.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/contact.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/footer.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/header.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/heading.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/hero.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/preloader.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/reboot.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/spacing.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/0e32b2304129ac52404fd36fc44fd6d55dee069c/widget.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/530a3acc31b0b3d3f7f5afd88ed40b860ea1ca7f/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/79e8b4b23cae96bc59accba0bc44812257da6644/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/82b7a64a6998190f01312a0c1f7661264cd7f171/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9255b8d9268a3257bde5fa63e05857c6564e153a/_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9255b8d9268a3257bde5fa63e05857c6564e153a/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9255b8d9268a3257bde5fa63e05857c6564e153a/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9255b8d9268a3257bde5fa63e05857c6564e153a/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/aaea34438c4adf88ad126fd9f0fe12a19e9263ac/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b362b0918ebd42cf56ce6a76e2430595e644f539/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_variables.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_fonts.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_responsive.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/_theme_color.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/d85c8cf619ac1df897d554b9bf37f413df87287f/style.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/dfcaea89727a6393ef5324335741098d1c0328cb/_flex.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/dfcaea89727a6393ef5324335741098d1c0328cb/_miscellaneous.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/.sass-cache/dfcaea89727a6393ef5324335741098d1c0328cb/_mixin.scssc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/HomeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/app/Offre.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/database/migrations/2018_12_10_204458_cree_offres_emplois.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/classy-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/nice-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/themify-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/active.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/bootstrap/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/jquery/jquery-2.2.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/js/plugins/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/archive-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/archive-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/active.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/bootstrap/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/jquery/jquery-2.2.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/js/plugins/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/backtotop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/blog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/contact.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/heading.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/hero.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/mixins/_flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/mixins/_miscellaneous.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/preloader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/widget.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/single-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/style.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/video-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todo.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/.env.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Console/Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Exceptions/Handler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Auth/ForgotPasswordController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Auth/LoginController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Auth/RegisterController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Auth/ResetPasswordController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Auth/VerificationController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Controllers/HomeController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Kernel.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/Authenticate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/CheckForMaintenanceMode.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/EncryptCookies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/TrimStrings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/TrustProxies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Http/Middleware/VerifyCsrfToken.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Providers/AppServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Providers/AuthServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Providers/BroadcastServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Providers/EventServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/Providers/RouteServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/app/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/artisan" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/bootstrap/app.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/bootstrap/cache/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/app.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/auth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/broadcasting.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/filesystems.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/hashing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/logging.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/queue.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/services.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/session.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/config/view.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/database/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/database/factories/UserFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/database/seeds/DatabaseSeeder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/svg/403.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/svg/404.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/svg/500.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/svg/503.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/js/components/ExampleComponent.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/lang/en/auth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/lang/en/pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/lang/en/passwords.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/lang/en/validation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/sass/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/sass/app.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/layouts/template.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/welcome.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/routes/api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/routes/channels.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/routes/console.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/routes/web.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/app/public/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/cache/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/cache/data/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/sessions/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/testing/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/framework/views/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/storage/logs/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/tests/CreatesApplication.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/tests/Feature/ExampleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/tests/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/tests/Unit/ExampleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SiteWebUQO/webpack.mix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/.env.example" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/public/favicon.ico" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/auth/login.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/auth/passwords/email.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/auth/passwords/email.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/auth/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/auth/passwords/reset.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/auth/register.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/auth/verify.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/auth/verify.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/home.blade.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SiteWebUQO/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/app.blade.php" />
+    <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/emploi/creer.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/emploi/creer.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/plansite.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/plansite.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/routes/web.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -298,6 +52,10 @@
               <caret line="103" column="51" lean-forward="false" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
               <folding>
                 <element signature="e#392#522#0#PHP" expanded="false" />
+                <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
+                <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
+                <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
+                <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
               </folding>
             </state>
           </provider>
@@ -478,7 +236,7 @@
       <workItem from="1540166061167" duration="4620000" />
       <workItem from="1543259322574" duration="8955000" />
       <workItem from="1544468008178" duration="95000" />
-      <workItem from="1544468132333" duration="9767000" />
+      <workItem from="1544468132333" duration="9896000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1539018937757</created>
@@ -543,19 +301,26 @@
       <option name="project" value="LOCAL" />
       <updated>1543260957483</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="-Migration&#10;-Actions du controlleur pour la DB (Toujours pas fonctionnel)">
+      <created>1544478133823</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544478133823</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25029000" />
+    <option name="totallyTimeSpent" value="25158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.496875" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -657,6 +422,10 @@
           <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
+            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
           </folding>
         </state>
       </provider>
@@ -709,6 +478,10 @@
           <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
+            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
           </folding>
         </state>
       </provider>
@@ -967,6 +740,10 @@
           <caret line="103" column="51" lean-forward="false" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
+            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
+            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
           </folding>
         </state>
       </provider>
