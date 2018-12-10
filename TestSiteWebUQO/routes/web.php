@@ -54,16 +54,16 @@ Route::get('/etudiant/cycletrois', function () {
 });
 
 Route::get('/etudiant/cycleungenie', function () {
-    return view('cycleungenie');
+    return view('/etudiant/cycleungenie');
 });
 
 Route::get('/etudiant/cycleuninfo', function () {
-    return view('cycleuninfo');
+    return view('/etudiant/cycleuninfo');
 });
 
 // Route les pages de programmes
 Route::get('/programmes/cycledeuxtrois', function () {
-    return view('cycledeuxtrois');
+    return view('/etudiant/cycledeuxtrois');
 });
 
 Route::get('/programmes/premiercycle', function () {
