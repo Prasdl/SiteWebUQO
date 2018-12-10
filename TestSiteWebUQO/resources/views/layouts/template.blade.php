@@ -48,7 +48,7 @@
         }
 
         .main {
-            margin-left: 260px;
+            margin-left: 220px;
             font-size: 28px;
             padding: 0px 10px;
         }
@@ -75,6 +75,7 @@
         a:hover {
             color: #f1f1f1;
         }
+
     </style>
 </head>
 <body>
@@ -120,7 +121,7 @@
 </div>
 
 <div class="main">
-
+    @yield('template')
 </div>
 
 </body>
@@ -140,4 +141,3 @@
 
 </html>
 
-@yield('template')
