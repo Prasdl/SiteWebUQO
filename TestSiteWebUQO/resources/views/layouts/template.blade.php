@@ -11,7 +11,7 @@
     <style>
         .sidenav {
             height: 100%;
-            width: 260px;
+            width: 220px;
             position: fixed;
             z-index: 1;
             top: 0;
@@ -55,11 +55,9 @@
 
         .navtop
         {
-            margin-left: 260px;
+            margin-left: 200px;
             padding: 0px 10px;
         }
-
-
         .footer {
             position: absolute;
             bottom: 0;
@@ -68,6 +66,8 @@
             background: #000000;
             color: #FFFFFF;
             text-align: center;
+            margin-left: 200px;
+            padding: 0px 10px;
         }
         .white{
             color: #FFFFFF;
