@@ -41,10 +41,6 @@ Route::get('/informatique', function () {
     return view('informatique');
 });
 
-Route::get('/', function () {
-    return view('accueil');
-});
-
 Route::get('/partenaire', function () {
     return view('partenaires');
 });
