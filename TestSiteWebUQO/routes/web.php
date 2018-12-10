@@ -32,7 +32,6 @@ Route::get('/plansite', function () {
     return view('plansite');
 });
 
-
 Route::get('/genie', function () {
     return view('genie');
 });
@@ -47,11 +46,11 @@ Route::get('/partenaire', function () {
 
 // Route les pages de etudiant
 Route::get('/etudiant/cycledeux', function () {
-    return view('cycledeux');
+    return view('/etudiant/cycledeux');
 });
 
 Route::get('/etudiant/cycletrois', function () {
-    return view('cycletrois');
+    return view('/etudiant/cycletrois');
 });
 
 Route::get('/etudiant/cycleungenie', function () {
@@ -68,29 +67,29 @@ Route::get('/programmes/cycledeuxtrois', function () {
 });
 
 Route::get('/programmes/premiercycle', function () {
-    return view('premiercycle');
+    return view('/programmes/premiercycle');
 });
 
 Route::get('/programmes/plancours', function () {
-    return view('plancours');
+    return view('/programmes/plancours');
 });
 
 // Route les pages de recherche
 Route::get('/recherche/domaine', function () {
-    return view('domaine');
+    return view('/recherche/domaine');
 });
 
 Route::get('/recherche/equipe', function () {
-    return view('equipe');
+    return view('/recherche/equipe');
 });
 
 // Route les pages de personnel
 Route::get('/personnel/personnel', function () {
-    return view('personnel');
+    return view('/personnel/personnel');
 });
 
 Route::get('/personnel/professeurs', function () {
-    return view('professeurs');
+    return view('/personnel/professeurs');
 });
 
 
