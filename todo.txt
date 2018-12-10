@@ -1,6 +1,5 @@
 Fichier todo:
 
--Créer des postings (Insertion et interrogation de la base de données)
--Implémenter la localization (Anglais et Français)
+-Créer des postings (Insertion et interrogation de la base de données) Utiliser des methodes insert et etc, pas besoin d'eloquent dans le controlleur
 -Vérifier si il manque de l'information ou des pages sur le site
 -Enlever la barre de scrolling de la sidebar

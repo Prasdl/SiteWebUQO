@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/classy-nav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/nice-select.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/themify-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/js/active.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/js/bootstrap/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/js/bootstrap/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/js/jquery/jquery-2.2.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/js/plugins/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/archive-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/archive-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/classy.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/fonts/themify.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/passwords.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/lang/en/validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/backtotop.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/heading.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/hero.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/mixins/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/mixins/_miscellaneous.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/preloader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_color.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/utilities/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/scss/widget.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/single-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/video-post.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.txt" afterPath="$PROJECT_DIR$/todo.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -38,8 +101,8 @@
       <file leaf-file-name="creer.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/emploi/creer.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,11 +115,17 @@
               <caret line="103" column="51" lean-forward="false" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
               <folding>
                 <element signature="e#392#522#0#PHP" expanded="false" />
-                <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
-                <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
-                <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
-                <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,12 +165,12 @@
         <option value="$PROJECT_DIR$/TestSiteWebUQO/.env" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/accueil.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/plansite.blade.php" />
-        <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/app/Offre.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/database/migrations/2018_12_10_204458_cree_offres_emplois.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/routes/web.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/emploi/creer.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
       </list>
     </option>
   </component>
@@ -186,6 +255,63 @@
               <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
               <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="personnel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="programmes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -236,7 +362,7 @@
       <workItem from="1540166061167" duration="4620000" />
       <workItem from="1543259322574" duration="8955000" />
       <workItem from="1544468008178" duration="95000" />
-      <workItem from="1544468132333" duration="9896000" />
+      <workItem from="1544468132333" duration="11739000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1539018937757</created>
@@ -308,24 +434,32 @@
       <option name="project" value="LOCAL" />
       <updated>1544478133823</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="-Migration&#10;-Actions du controlleur pour la DB (Toujours pas fonctionnel)">
+      <created>1544478218786</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544478218786</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25158000" />
+    <option name="totallyTimeSpent" value="27001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.496875" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.496875" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23467231" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23467231" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23467231" sideWeight="0.49583334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -422,10 +556,6 @@
           <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
-            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
           </folding>
         </state>
       </provider>
@@ -478,10 +608,6 @@
           <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
-            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
           </folding>
         </state>
       </provider>
@@ -726,43 +852,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="88" lean-forward="false" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="103" column="51" lean-forward="false" selection-start-line="103" selection-start-column="51" selection-end-line="103" selection-end-column="51" />
           <folding>
             <element signature="e#392#522#0#PHP" expanded="false" />
-            <marker date="1544478186185" expanded="true" signature="2067:2068" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2067:2069" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2084:2148" ph="..." />
-            <marker date="1544478186185" expanded="true" signature="2113:2147" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/emploi/creer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/app/Http/Controllers/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
