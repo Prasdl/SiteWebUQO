@@ -14,7 +14,7 @@
     <?php
 
     /*
-    To Do faire la db(tableau)
+    To Do
     */
 
     ?>
