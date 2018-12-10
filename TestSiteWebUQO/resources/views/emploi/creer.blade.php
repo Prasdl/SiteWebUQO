@@ -33,8 +33,6 @@
     }
         }
     }
-
-
     ?>
 
     <form method="post" action="">
@@ -62,45 +60,30 @@
         <span class="error">* <?php echo $nbetuError;?></span>
         <br><br>
 
-        <!–– céer les option du select pour les jours ––>
-            <select name="jour" onchange="if (this.selectedIndex) doSomething();">
-                <?php
+        Date de fin d'affichage: <!-- Credit: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
+        <div class="container">
+            <div class="row">
+                <div class='col-sm-6'>
+                    <div class="form-group">
+                        <div class='input-group date' id='datetimepicker1'>
+                            <input type='text' class="form-control" />
+                            <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                        </div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $(function () {
+                        $('#datetimepicker1').datetimepicker();
+                    });
+                </script>
+            </div>
+        </div>
 
-                define('MAX_OPTIONS', 31);
-
-                for($optionIndex=1; $optionIndex <= MAX_OPTIONS; $optionIndex++){
-                    echo '<option>' . $optionIndex . '</option>';
-                }
-                ?>
-            </select>
-
-        <!–– céer les option du select pour les mois ––>
-        <select name="mois" onchange="if (this.selectedIndex) doSomething();">
-            <?php
-
-            define('MAX_OPTIONS', 12);
-
-            for($optionIndex=1; $optionIndex <= MAX_OPTIONS; $optionIndex++){
-                echo '<option>' . $optionIndex . '</option>';
-            }
-
-            ?>
-        </select>
-
-        <select name="annee" onchange="if (this.selectedIndex) doSomething();">
-            <option>2018</option>
-            <option>2019</option>
-            <option>2020</option>
-            <option>2021</option>
-        </select>
-
-
-        <br><br>
-        Adin de prevenir le spam, videz cette case : <input type="text" name="spam" value="<?php echo $spam;?>">
         <br><br>
         <input type="submit" name="submit" value="Submit">
     </form>
-
 
 @endsection
 

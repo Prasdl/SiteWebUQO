@@ -90,13 +90,19 @@ Route::get('/recherche/equipe', function () {
 
 // Route les pages de personnel
 Route::get('/personnel/personnel', function () {
-    return view('personnel');
+    return view('personnel/personnel');
 });
 
 Route::get('/personnel/professeurs', function () {
-    return view('professeurs');
+    return view('personnel/professeurs');
 });
 
+Route::get('/emploi/creer', function() {
+    return view('emploi/creer');
+});
 
+Route::post('/emploi/creer', 'HomeController@store');
 
+Auth::routes();
 
+Route::get('/home', 'HomeController@index')->name('home');

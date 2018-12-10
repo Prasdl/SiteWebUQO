@@ -1,0 +1,6 @@
+Fichier todo:
+
+-Créer des postings (Insertion et interrogation de la base de données)
+-Implémenter la localization (Anglais et Français)
+-Vérifier si il manque de l'information ou des pages sur le site
+-Enlever la barre de scrolling de la sidebar

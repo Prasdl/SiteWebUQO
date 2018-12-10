@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- Bootstrap Date-Picker Plugin --> (Source: https://formden.com/blog/date-picker)
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
 
     <style>
         .sidenav {
@@ -115,8 +119,8 @@
     <a href="/personnel/personnel">Professeurs</a>
     <a href="/personnel/professeurs">Personnel</a>
     <p>EMPLOIS</p>
-    <a href="#">Créer une offre d'emploi</a>
-    <a href="#">Offres d'emplois courantes</a>
+    <a href="/emploi/creer">Créer une offre d'emploi</a>
+    <a href="emploi/offres">Offres d'emplois courantes</a>
 </div>
 
 <div class="main">
