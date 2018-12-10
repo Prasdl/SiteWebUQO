@@ -53,7 +53,7 @@
 
         .main {
             margin-left: 220px;
-            font-size: 28px;
+            font-size: 16px;
             padding: 0px 10px;
         }
 
