@@ -92,12 +92,25 @@
 
     </style>
 
+    <script>
+        function show() {
+            if ( document.getElementById("txtrecherche").style.display=="block")
+            {
+                document.getElementById("txtrecherche").style.display="none";
+            }
+            else
+            {
+                document.getElementById("txtrecherche").style.display="block";
+            }
+
+        }
+    </script>
 
 </head>
 
 <body>
 
-<div class="navtop"  style="position: fixed;top: 0px;"  >
+<div class="navtop"  style="position: fixed;top: 0px;" >
     <nav class="navbar navbar-inverse">
         <a class="navbar-brand" href="https://uqo.ca/">UQO</a>
         <ul class="nav navbar-nav">
@@ -108,7 +121,9 @@
             <li><a href="https://uqo.ca/biblio">Bibliothèque</a></li>
             <li><a href="">Intranet</a></li>
             <li><a href="/plansite">Plan du site</a></li>
-            <li><a href=""><span class="glyphicon glyphicon-search"></span></a></li>
+            <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
+            <input id="txtrecherche" style="display: none" type="text" style="margin-top: 0.75%">
+
         </ul>
     </nav>
 
@@ -165,6 +180,8 @@
 
 
 <div class="main" >   @yield('template')</div>
+
+
 
 
 
