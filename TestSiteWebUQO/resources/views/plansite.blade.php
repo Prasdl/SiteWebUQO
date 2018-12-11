@@ -1,7 +1,7 @@
 @extends('layouts.template')
 
 @section('template')
-<div class="main">
+
     <h1>PLAN DU SITE</h1>
     <ul>
         <!–– To Do faire lien vers site ––>
@@ -91,7 +91,7 @@
         <li><p><a href="">Galerie de photos</a></p></li>
         <li><p><a href="">Pour nous joindre</a></p></li>
     </ul>
-</div>
+
 
 @endsection
 
