@@ -47,20 +47,20 @@ Route::get('/partenaire', function () {
 });
 
 // Route les pages de etudiant
-Route::get('/etudiant/cycledeux', function () {
-    return view('/etudiant/cycledeux');
+Route::get('/etudiants/cycledeux', function () {
+    return view('/etudiants/cycledeux');
 });
 
-Route::get('/etudiant/cycletrois', function () {
-    return view('/etudiant/cycletrois');
+Route::get('/etudiants/cycletrois', function () {
+    return view('/etudiants/cycletrois');
 });
 
-Route::get('/etudiant/cycleungenie', function () {
-    return view('cycleungenie');
+Route::get('/etudiants/cycleungenie', function () {
+    return view('/etudiants/cycleungenie');
 });
 
-Route::get('/etudiant/cycleuninfo', function () {
-    return view('/etudiant/cycleuninfo');
+Route::get('/etudiants/cycleuninfo', function () {
+    return view('/etudiants/cycleuninfo');
 });
 
 // Route les pages de programmes

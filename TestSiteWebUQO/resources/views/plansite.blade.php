@@ -1,12 +1,5 @@
 @extends('layouts.template')
 
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-
 @section('template')
 <div class="main">
     <h1>PLAN DU SITE</h1>
@@ -102,5 +95,3 @@
 
 @endsection
 
-</body>
-</html>

@@ -1,11 +1,6 @@
 @extends('layouts.template')
 
-<!DOCTYPE html>
-<html>
-<head>
 
-</head>
-<body>
 
 @section('template')
 
@@ -29,5 +24,3 @@
 
 @endsection
 
-</body>
-</html>
