@@ -94,15 +94,12 @@
 
     <script>
         function show() {
-            if ( document.getElementById("txtrecherche").style.display=="block")
-            {
-                document.getElementById("txtrecherche").style.display="none";
+            var x = document.getElementById("txtrecherche");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
             }
-            else
-            {
-                document.getElementById("txtrecherche").style.display="block";
-            }
-
         }
     </script>
 
@@ -121,62 +118,60 @@
             <li><a href="https://uqo.ca/biblio">Bibliothèque</a></li>
             <li><a href="">Intranet</a></li>
             <li><a href="/plansite">Plan du site</a></li>
-            <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
-            <input id="txtrecherche" style="display: none" type="text" style="margin-top: 0.75%">
 
-        </ul>
-    </nav>
-
-</div>
-
-
-<div class="navtop" style="position: fixed;top: 46px;" >
-    <nav class="navbar navbar-inverse" >
-        <ul class="nav navbar-nav">
-           <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PROGRAMMES D'ÉTUDES</a>
-               <div class="dropdown-content">
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PROGRAMMES D'ÉTUDES</a>
+                <div class="dropdown-content">
                     <a href="/informatique">INFO</a>
                     <a href="/genie">GÉNIE</a>
                     <a  href="/programmes/premiercycle" >1er cycle</a>
                     <a href="/programmes/cycledeuxtrois" >2ᵉ et 3ᵉ cycles</a>
                     <a  href="/programmes/plancours">Plans de cours</a>
                     <a  href="https://moodle.uqo.ca/" >Moodle</a>
-               </div>
-                </li>
+                </div>
+            </li>
 
-             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">ÉTUDIANTS</a>
-                 <div class="dropdown-content">
-                     <a href="/etudiant/cycleuninfo">1er cycle informatique</a>
-                     <a href="/etudiant/cycleungenie">1er cycle génie</a>
-                     <a href="/etudiant/cycledeux">2ᵉ cycle</a>
-                     <a href="/etudiant/cycletrois">3ᵉ cycle</a>
-                  </div>
-             </li>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">ÉTUDIANTS</a>
+                <div class="dropdown-content">
+                    <a href="/etudiant/cycleuninfo">1er cycle informatique</a>
+                    <a href="/etudiant/cycleungenie">1er cycle génie</a>
+                    <a href="/etudiant/cycledeux">2ᵉ cycle</a>
+                    <a href="/etudiant/cycletrois">3ᵉ cycle</a>
+                </div>
+            </li>
 
-             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">RECHERCHE</a>
-                 <div class="dropdown-content">
-                     <a href="/recherche/domaine">Domaines de spécialisation</a>
-                     <a href="/recherche/equipe">Équipes de recherche</a>
-                    </div>
-             </li>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">RECHERCHE</a>
+                <div class="dropdown-content">
+                    <a href="/recherche/domaine">Domaines de spécialisation</a>
+                    <a href="/recherche/equipe">Équipes de recherche</a>
+                </div>
+            </li>
 
-             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PERSONNEL</a>
-                 <div class="dropdown-content">
-                     <a href="/personnel/personnel">Professeurs</a>
-                     <a href="/personnel/professeurs">Personnel</a>
-                    </div>
-             </li>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PERSONNEL</a>
+                <div class="dropdown-content">
+                    <a href="/personnel/personnel">Professeurs</a>
+                    <a href="/personnel/professeurs">Personnel</a>
+                </div>
+            </li>
 
-             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">EMPLOIS</a>
-                 <div class="dropdown-content">
-                     <a href="/emploi/creer">Créer une offre d'emploi</a>
-                     <a href="emploi/offres">Offres d'emplois courantes</a>
-                 </div>
-             </li>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">EMPLOIS</a>
+                <div class="dropdown-content">
+                    <a href="/emploi/creer">Créer une offre d'emploi</a>
+                    <a href="emploi/offres">Offres d'emplois courantes</a>
+                </div>
+            </li>
+
+            <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
+            <li >
+                <form id="txtrecherche" method="get" style="display: none" action="http://www.google.com/search">
+                    <input type="text" name="q" size="31" maxlength="255" value="" />
+                    <input type="submit" value="Search" />
+                </form>
+            </li>
+
         </ul>
     </nav>
-</div>
 
+</div>
 
 
 <div class="main" >   @yield('template')</div>
