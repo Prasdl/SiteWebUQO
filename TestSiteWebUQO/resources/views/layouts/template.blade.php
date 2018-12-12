@@ -148,8 +148,8 @@
 
             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PERSONNEL</a>
                 <div class="dropdown-content">
-                    <a href="/personnel/personnel">Professeurs</a>
-                    <a href="/personnel/professeurs">Personnel</a>
+                    <a href="/personnel/professeurs">Professeurs</a>
+                    <a href="/personnel/personnel">Personnel</a>
                 </div>
             </li>
 

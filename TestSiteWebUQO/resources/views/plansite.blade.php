@@ -71,22 +71,22 @@
 
     <p>Recherche</p>
     <ul>
-        <li><p><a href="">Domaines de spécialisation des professeurs</a></p></li>
-        <li><p><a href="">Équipes de recherche</a></p></li>
+        <li><p><a href="/recherche/domaine">Domaines de spécialisation des professeurs</a></p></li>
+        <li><p><a href="/recherche/equipe">Équipes de recherche</a></p></li>
         <li><p><a href="">Mémoires de maîtrise</a></p></li>
-        <li><p><a href="">Rapports de recherche</a></p></li>
+        <li><p><a href="http://w4.uqo.ca/dii/rapports/rr0602abdali.pdf">Rapports de recherche</a></p></li>
         <li><p><a href="">Projets de recherche sur la sécurité</a></p></li>
     </ul>
 
     <p>Personnel</p>
     <ul>
-        <li><p><a href="">Professeurs</a></p></li>
-        <li><p><a href="">Personnel de soutien</a></p></li>
+        <li><p><a href="/personnel/professeurs">Professeurs</a></p></li>
+        <li><p><a href="/personnel/personnel">Personnel de soutien</a></p></li>
     </ul>
 
     <p>Informations générales</p>
     <ul>
-        <li><p><a href="">Partenaires éducatifs</a></p></li>
+        <li><p><a href="/partenaire">Partenaires éducatifs</a></p></li>
         <li><p><a href="">Nouvelles</a></p></li>
         <li><p><a href="">Galerie de photos</a></p></li>
         <li><p><a href="">Pour nous joindre</a></p></li>
