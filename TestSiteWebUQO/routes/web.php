@@ -98,6 +98,10 @@ Route::get('/emploi/creer', function() {
     return view('emploi/creer');
 });
 
+Route::get('/emploi/offres', function() {
+    return view('emploi/offres');
+});
+
 Route::post('/emploi/creer', 'HomeController@store');
 
 Auth::routes();

@@ -32,8 +32,8 @@ class HomeController extends Controller
         //
     }
 
+    //Inserer une offre dans la BD
     public function store(Request $request){
-
         //Creer l'offre
         $offre = new Offre();
         //Remplir l'offre
@@ -47,15 +47,26 @@ class HomeController extends Controller
         //On sauvegarde l'offre
         $offre->save();
 
+        //Confirmation de l'entree
+        echo '<script type="text/javascript">alert("Offre cree avec succes")</script>';
+
         //On emmene l'utilisateur vers l'affichage des offres
         return view('emploi/creer');
         //return view('emploi/offres');
     }
 
+    //Affiche les offres dans la page d'affichage
     public function show(){
-        //
+        //Le dataset des offres (Appel du model Offre)
+        $offres = App/Offre::all();
+
+        //Fonction test
+        foreach($offres as $offre){
+            echo $offre->id;
+        }
     }
 
+    //Editer l'offre dans la BD
     public function edit(Offre $offre){
         if (isset($_GET['id']))
         {
@@ -68,8 +79,9 @@ class HomeController extends Controller
 
     }
 
+    //Supprimer l'offre dans la BD
     public function destroy(Offre $offre){
-        // Supprimer la sheet
+        // Supprimer l'offre
         $offre->delete();
 
         // Retourner en arrière
