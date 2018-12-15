@@ -12,7 +12,7 @@
     <h2>Sessions</h2>
     <ul>
 
-        <!–– To Do faire lien vers site ––>
+
 
         <li><p><a href="">Automne 2018</a></p></li>
         <li><p><a href="">Été 2018</a></p></li>
@@ -25,7 +25,7 @@
 
     <h2>Programmes</h2>
     <ul>
-        <!–– To Do faire lien vers site ––>
+
         <li><p>7643<a href="">Bacc. en génie électrique</a></p></li>
         <li><p>7643<a href="">Bacc. en génie informatique</a></p></li>
         <li><p>7833<a href="">Bacc. en informatique</a></p></li>

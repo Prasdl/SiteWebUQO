@@ -92,6 +92,7 @@
 
     </style>
 
+    <!–– Fonction pour faire apparaitre ou disparaitre la bar de recherche ––>
     <script>
         function show() {
             var x = document.getElementById("txtrecherche");
