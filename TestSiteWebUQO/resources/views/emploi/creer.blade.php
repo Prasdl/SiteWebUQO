@@ -22,10 +22,10 @@
         }
     }
 
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    if (empty($_POST["coordo"])) {
-        $coordoError = "Les coordonnées sont requis";
-    }
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            if (empty($_POST["coordo"])) {
+                $coordoError = "Les coordonnées sont requises";
+            }
         }
     }
     ?>
@@ -56,7 +56,7 @@
         <br><br>
 
         Date de fin d'affichage: <!-- Credit: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
-        <div class="container">
+        <div class="main">
             <div class="row">
                 <div class='col-sm-6'>
                     <div class="form-group">

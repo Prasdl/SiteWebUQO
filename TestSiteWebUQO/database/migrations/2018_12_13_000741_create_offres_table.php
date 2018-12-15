@@ -21,7 +21,7 @@ class CreateOffresTable extends Migration
             $table->string('TypeEtudiant');
             $table->string('Connaissances');
             $table->string('DescriptionEmploi');
-            $table->int('NombreEtudiants');
+            $table->integer('NombreEtudiants');
             $table->date('DateFinAffichage');
         });
     }

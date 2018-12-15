@@ -174,11 +174,7 @@
 </div>
 
 
-<div class="main" >   @yield('template')</div>
-
-
-
-
+<div class="main" >@yield('template')</div>
 
 </body>
 
