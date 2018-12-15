@@ -30,6 +30,105 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
+    <style>
+        @media screen and (max-height: 900px) {
+            .sidenav a {font-size: 18px;}
+            .bottom_border {display: none;}
+        }
+
+        body{
+            /* background-image:  ;*/
+
+        }
+
+        .main {
+            position: static;
+            padding-left: 25px;
+            font-size: 16px;
+            height: 100%;
+            padding-top: 52px;
+            padding-bottom: 500px;
+            background-color: #d8d8d8;
+            width:80%;
+            margin: auto;
+        }
+
+        .navtop
+        {
+            padding: 0px 0px;
+            width: 100%;
+        }
+
+        a:hover {
+            color: #f1f1f1;
+        }
+
+
+        li.dropdown {
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color:  #222222;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: white;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {background-color: #f1f1f1; color: black }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /*footer*/
+        .col_white { color:#FFF;}
+        footer { width:100%; background-color:#222222; position: fixed;  bottom: 0px; padding:10px 0px 25px 0px ; }
+        .pt2 { padding-top:40px ; margin-bottom:20px ;}
+        footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+        .mb10 { padding-bottom:15px ;}
+        .footer_ul { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+        .footer_ul li {padding:0px 0px 5px 0px;}
+        .footer_ul li a{ color:#CCC;}
+        .footer_ul li a:hover{ color:#fff; text-decoration:none;}
+        .fleft { float:left;}
+        .padding-right { padding-right:10px; }
+
+        .footer_ul2 {margin:0px; list-style-type:none; padding:0px;}
+        .footer_ul2 li p { display:table; }
+        .footer_ul2 li a:hover { text-decoration:none;}
+        .footer_ul2 li i { margin-top:5px;}
+
+        .bottom_border { border-bottom:1px solid #323f45;}
+        .foote_bottom_ul {
+            list-style-type:none;
+            padding:0px;
+            display:table;
+            margin-top: 10px;
+            margin-right: auto;
+            margin-bottom: 10px;
+            margin-left: auto;
+        }
+        .foote_bottom_ul li { display:inline;}
+        .foote_bottom_ul li a { color:#999; margin:0 12px;}
+
+        .social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+        .social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+        .social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
+        .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+    </style>
+
+
     <!–– Fonction pour faire apparaitre ou disparaitre la bar de recherche ––>
     <script>
         function show() {
@@ -42,9 +141,9 @@
         }
     </script>
 
+    </head>
 
 <body>
-
 
 <!–– Bar de navigation  ––>
 <div class="navtop"  style="position: fixed;top: 0px;" >
@@ -124,7 +223,7 @@
     <div class="container bottom_border">
         <div class="row">
             <div class=" col-sm-4 col-md col-sm-4  col-12 col">
-                <h5 class="headin5 col_white_ pt2">Pour nous joindre</h5>
+                <h5 class="headin5 col_white pt2">Pour nous joindre</h5>
                 <!--info-->
                 <p class="mb10">Département d'informatique et d'ingénierie - Université du Québec en Outaouais</p>
                 <p><i class="fa fa-location-arrow"></i>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7</p>
@@ -135,7 +234,7 @@
             </div>
 
             <div class=" col-sm-4 col-md  col-12 col">
-                <h5 class="headin5 col_white pt2">Follow us</h5>
+                <h5 class="headin5 col_white pt2">Nous suivre</h5>
                 <!--twitter-->
                 <ul class="footer_ul2">
                     <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>

@@ -3,6 +3,8 @@
 
 @section('template')
 
+
+
     <h1>Voici les évènement récents</h1>
 
     <p>2018/12/20 - INVITATION - PRÉSENTATION DE PROJET DE THÈSE
