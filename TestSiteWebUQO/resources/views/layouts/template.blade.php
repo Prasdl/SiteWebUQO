@@ -5,14 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Le boostrap  -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
     <!-- Librairies pour le DateTimePicker -->
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-
-    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-
-    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.js"></script>
 
     <!-- Bootstrap Date-Picker Plugin (Source: https://formden.com/blog/date-picker)-->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
@@ -24,15 +22,9 @@
     <link href="./css/base.css" rel="stylesheet">
     <link href="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
     <script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/src/js/bootstrap-datetimepicker.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 
     <!-- fonctionne pas  -->
-    <link rel="stylesheet" type="text/css" href="layouts/styletemplate.css" />
-
+    <link rel="stylesheet" type="text/css" href="styletemplate.css">
 
     <!-- Librairie pour les icônes -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -50,7 +42,6 @@
         }
     </script>
 
-</head>
 
 <body>
 
@@ -133,7 +124,7 @@
     <div class="container bottom_border">
         <div class="row">
             <div class=" col-sm-4 col-md col-sm-4  col-12 col">
-                <h5 class="headin5_amrc col_white_amrc pt2">Pour nous joindre</h5>
+                <h5 class="headin5 col_white_ pt2">Pour nous joindre</h5>
                 <!--info-->
                 <p class="mb10">Département d'informatique et d'ingénierie - Université du Québec en Outaouais</p>
                 <p><i class="fa fa-location-arrow"></i>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7</p>
@@ -144,9 +135,9 @@
             </div>
 
             <div class=" col-sm-4 col-md  col-12 col">
-                <h5 class="headin5_amrc col_white_amrc pt2">Follow us</h5>
+                <h5 class="headin5 col_white pt2">Follow us</h5>
                 <!--twitter-->
-                <ul class="footer_ul2_amrc">
+                <ul class="footer_ul2">
                     <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
                     <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
                     <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
@@ -158,7 +149,7 @@
 
 
     <div class="container">
-        <ul class="foote_bottom_ul_amrc">
+        <ul class="foote_bottom_ul">
             <li><a href="https://uqo.ca/">UQO</a></li>
             <li><a href="/">Acceuil</a></li>
         </ul>
