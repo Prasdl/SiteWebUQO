@@ -13,15 +13,15 @@
             <li><p><a href="http://w4.uqo.ca/dii/pdf/Atelier_inscription.pdf">INF9093, INF9103, INF9123, INF9133 - Inscription à un atelier</a></p></li>
             <li><p>INF9006 Examen de synthèse</p></li>
             <ul>
-                <li><p><a href="">Directives</a></p></li>                                                               <!–– To Do faire donwload onclik ––>
-                <li><p><a href="">Proposition des sujets</a></p></li>                                                   <!–– To Do faire donwload onclik ––>
+                <li><p><a href="">Directives</a></p></li>
+                <li><p><a href="">Proposition des sujets</a></p></li>
                 <li><p><a href="http://w4.uqo.ca/dii/pdf/ExamenSynthese_inscription.pdf">Inscription</a></p></li>
-                <li><p><a href="">Évaluation</a></p></li>                                                               <!–– To Do faire donwload onclik ––>
+                <li><p><a href="">Évaluation</a></p></li>
             </ul>
 
             <li><p>INF9009 Projet de thèse</p></li>
             <ul>
-                <li><p><a href="">Directives</a></p></li>                                                               <!–– To Do faire donwload onclik ––>
+                <li><p><a href="">Directives</a></p></li>
                 <li><p><a href="http://w4.uqo.ca/dii/pdf/ProjetThese_inscription.pdf">Inscription</a></p></li>
                 <li><p><a href="http://w4.uqo.ca/dii/pdf/ProjetThese_inscription.pdf">Évaluation</a></p></li>
             </ul>

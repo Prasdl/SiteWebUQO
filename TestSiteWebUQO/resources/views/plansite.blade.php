@@ -4,7 +4,6 @@
 
     <h1>PLAN DU SITE</h1>
     <ul>
-        <!–– To Do faire lien vers site ––>
 
         <p>Programmes d'études</p>
         <ul>
