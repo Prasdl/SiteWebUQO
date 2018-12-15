@@ -1,12 +1,23 @@
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 900px) {
     .sidenav a {font-size: 18px;}
+    .bottom_border {display: none;}
+}
+
+body{
+    /* background-image:  ;*/
+
 }
 
 .main {
+    position: static;
+    padding-left: 25px;
     font-size: 16px;
     height: 100%;
-    padding-top: 40px;
+    padding-top: 52px;
+    padding-bottom: 500px;
     background-color: #d8d8d8;
+    width:80%;
+    margin: auto;
 }
 
 .navtop
@@ -49,7 +60,7 @@ li.dropdown {
 
 /*footer*/
 .col_white { color:#FFF;}
-footer { width:100%; background-color:#222222; min-height:250px; padding:10px 0px 25px 0px ;}
+footer { width:100%; background-color:#222222; position: fixed;  bottom: 0px; padding:10px 0px 25px 0px ;}
 .pt2 { padding-top:40px ; margin-bottom:20px ;}
 footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
 .mb10 { padding-bottom:15px ;}
@@ -65,7 +76,8 @@ footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
 .footer_ul2 li a:hover { text-decoration:none;}
 .footer_ul2 li i { margin-top:5px;}
 
-.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.bottom_border { border-bottom:1px solid #323f45;}
+.bottom_border h5 { padding: 0px; margin-bottom: 5px; margin-top: 0px;}
 .foote_bottom_ul {
     list-style-type:none;
     padding:0px;
