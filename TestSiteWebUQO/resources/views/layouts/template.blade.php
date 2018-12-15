@@ -4,6 +4,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <!-- Librairies pour le DateTimePicker -->
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -29,68 +30,13 @@
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 
-
-    <style>
-
-        @media screen and (max-height: 450px) {
-            .sidenav a {font-size: 18px;}
-        }
-
-        .main {
-            font-size: 16px;
-            height: 100%;
-            padding-top: 40px;
-            background-color: #d8d8d8;
-        }
-
-        .navtop
-        {
-            padding: 0px 0px;
-            width: 100%;
-        }
-        .footer {
-            position: relative;
-            width: 100%;
-            height: 80px;
-            background: #222222;
-            color: #919d9d;
-            text-align: center;
-            padding: 0px 10px;
-        }
-
-        a:hover {
-            color: #f1f1f1;
-        }
+    <!-- fonctionne pas  -->
+    <link rel="stylesheet" type="text/css" href="layouts/styletemplate.css" />
 
 
-        li.dropdown {
-            display: inline-block;
-        }
+    <!-- Librairie pour les icônes -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color:  #222222;
-            min-width: 160px;
-            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-            z-index: 1;
-        }
-
-        .dropdown-content a {
-            color: white;
-            padding: 12px 16px;
-            text-decoration: none;
-            display: block;
-            text-align: left;
-        }
-
-        .dropdown-content a:hover {background-color: #f1f1f1; color: black }
-
-        .dropdown:hover .dropdown-content {
-            display: block;
-        }
-
-    </style>
 
     <!–– Fonction pour faire apparaitre ou disparaitre la bar de recherche ––>
     <script>
@@ -108,6 +54,8 @@
 
 <body>
 
+
+<!–– Bar de navigation  ––>
 <div class="navtop"  style="position: fixed;top: 0px;" >
     <nav class="navbar navbar-inverse">
         <a class="navbar-brand" href="https://uqo.ca/">UQO</a>
@@ -179,17 +127,55 @@
 
 </body>
 
+<!–– Footer ––>
+
 <footer class="footer">
-    <div class="container">
+    <div class="container bottom_border">
         <div class="row">
-            <div class="col-md-12">
-                <p>Département d'informatique et d'ingénierie - Université du Québec en Outaouais</p>
-                <p>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7 Tél.: 819-773-1600 Télécopieur: 819-773-1638</p>
-                <p><a class="white" href="#">Pour nous joindre</a></p>
+            <div class=" col-sm-4 col-md col-sm-4  col-12 col">
+                <h5 class="headin5_amrc col_white_amrc pt2">Pour nous joindre</h5>
+                <!--info-->
+                <p class="mb10">Département d'informatique et d'ingénierie - Université du Québec en Outaouais</p>
+                <p><i class="fa fa-location-arrow"></i>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7</p>
+                <p><i class="fa fa-phone"></i> Tél.: 819-773-1600 Télécopieur: 819-773-1638</p>
+                <p><i class="fa fa fa-envelope"></i> info@example.com </p>
+
+
+            </div>
+
+            <div class=" col-sm-4 col-md  col-12 col">
+                <h5 class="headin5_amrc col_white_amrc pt2">Follow us</h5>
+                <!--twitter-->
+                <ul class="footer_ul2_amrc">
+                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
+                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
+                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
+                </ul>
+
             </div>
         </div>
     </div>
+
+
+    <div class="container">
+        <ul class="foote_bottom_ul_amrc">
+            <li><a href="https://uqo.ca/">UQO</a></li>
+            <li><a href="/">Acceuil</a></li>
+        </ul>
+
+        <p class="text-center">Copyright @2018 | Conçu avec par <a href="#">Martine Chamberland et Jean-Philipe Tremblay</a></p>
+        <!--Réseaux sociaux-->
+        <ul class="social_footer_ul">
+            <li><a href=""><i class="fa fa-facebook-f"></i></a></li>
+            <li><a href=""><i class="fa fa-twitter"></i></a></li>
+            <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+            <li><a href=""><i class="fa fa-instagram"></i></a></li>
+        </ul>
+
+    </div>
+
 </footer>
+
 
 
 </html>
