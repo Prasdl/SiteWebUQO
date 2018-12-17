@@ -9,7 +9,7 @@
             <div class="entry">
                 <div class="picture">
                     <a href="dyn/profs/omar.abdulwahab.php">
-                        <img alt="Omar Abdul Wahab" style="border:1px solid" width="143" height="143" src="/Image/OmarAbdulWahab.png">
+                        <img alt="Omar Abdul Wahab" style="border:1px solid" width="143" height="143" src="Image/OmarAbdulWahab.png">
                     </a>
                 </div>
                 <div class="status2">&nbsp;</div>
@@ -27,7 +27,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/kamel.adi.php">
-                            <img alt="Kamel Adi" style="border:1px solid" width="143" height="143" src="/Image/KamelAdi.png">
+                            <img alt="Kamel Adi" style="border:1px solid" width="143" height="143" src="Image/KamelAdi.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -44,7 +44,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/mohand.allili.php">
-                            <img alt="Mohand S. Allili" style="border:1px solid" width="143" height="143" src="/Image/MohandS.Allili.png">
+                            <img alt="Mohand S. Allili" style="border:1px solid" width="143" height="143" src="Image/MohandS.Allili.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -61,7 +61,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/nadia.baaziz.php">
-                            <img alt="Nadia Baaziz" style="border:1px solid" width="143" height="143" src="/Image/NadiaBaaziz.png">
+                            <img alt="Nadia Baaziz" style="border:1px solid" width="143" height="143" src="Image/NadiaBaaziz.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -78,7 +78,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/ilham.benyahia.php">
-                            <img alt="Ilham Benyahia" style="border:1px solid" width="143" height="143" src="/Image/IlhamBenyahia.png">
+                            <img alt="Ilham Benyahia" style="border:1px solid" width="143" height="143" src="Image/IlhamBenyahia.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -95,7 +95,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/wojtek.bock.php">
-                            <img alt="Wojtek J. Bock" style="border:1px solid" width="143" height="143" src="/Image/WojtekJ.Bock.png">
+                            <img alt="Wojtek J. Bock" style="border:1px solid" width="143" height="143" src="Image/WojtekJ.Bock.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -112,7 +112,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/alain.charbonneau.php">
-                            <img alt="Alain Charbonneau" style="border:1px solid" width="143" height="143" src="/Image/AlainCharbonneau.png">
+                            <img alt="Alain Charbonneau" style="border:1px solid" width="143" height="143" src="Image/AlainCharbonneau.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -129,7 +129,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/jurek.czyzowicz.php">
-                            <img alt="Jurek Czyzowicz" style="border:1px solid" width="143" height="143" src="/Image/JurekCzyzowicz.png">
+                            <img alt="Jurek Czyzowicz" style="border:1px solid" width="143" height="143" src="Image/JurekCzyzowicz.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -146,7 +146,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/alan.davoust.php">
-                            <img alt="Alan Davoust" style="border:1px solid" width="143" height="143" src="/Image/AlanDavoust.png">
+                            <img alt="Alan Davoust" style="border:1px solid" width="143" height="143" src="Image/AlanDavoust.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -163,7 +163,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/tinko.eftimov.php">
-                            <img alt="Tinko Eftimov" style="border:1px solid" width="143" height="143" src="/Image/TinkoEftimov.png">
+                            <img alt="Tinko Eftimov" style="border:1px solid" width="143" height="143" src="Image/TinkoEftimov.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -180,7 +180,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/karim.elguemhioui.php">
-                            <img alt="Karim El Guemhioui" style="border:1px solid" width="143" height="143" src="/Image/KarimElGuemhioui.png">
+                            <img alt="Karim El Guemhioui" style="border:1px solid" width="143" height="143" src="Image/KarimElGuemhioui.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -197,7 +197,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/michal.iglewski.php">
-                            <img alt="Michal Iglewski" style="border:1px solid" width="143" height="143" src="/Image/MichalIglewski.png">
+                            <img alt="Michal Iglewski" style="border:1px solid" width="143" height="143" src="Image/MichalIglewski.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -214,7 +214,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/michael.korwin-pawlowski.php">
-                            <img alt="Michael Korwin-Pawlowski" style="border:1px solid" width="143" height="143" src="/Image/MichaelKorwin-Pawlowski.png">
+                            <img alt="Michael Korwin-Pawlowski" style="border:1px solid" width="143" height="143" src="Image/MichaelKorwin-Pawlowski.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -231,7 +231,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/ahmed.lakhssassi.php">
-                            <img alt="Ahmed Lakhssassi" style="border:1px solid" width="143" height="143" src="/Image/AhmedLakhssassi.png">
+                            <img alt="Ahmed Lakhssassi" style="border:1px solid" width="143" height="143" src="Image/AhmedLakhssassi.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -248,7 +248,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/frederic.lesage.php">
-                            <img alt="Frédéric Lesage" style="border:1px solid" width="143" height="143" src="/Image/FrédéricLesage.png">
+                            <img alt="Frédéric Lesage" style="border:1px solid" width="143" height="143" src="Image/FrédéricLesage.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -265,7 +265,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/luigi.logrippo.php">
-                            <img alt="Luigi Logrippo" style="border:1px solid" width="143" height="143" src="/Image/LuigiLogrippo.png">
+                            <img alt="Luigi Logrippo" style="border:1px solid" width="143" height="143" src="Image/LuigiLogrippo.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -282,7 +282,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/rokia.missaoui.php">
-                            <img alt="Rokia Missaoui" style="border:1px solid" width="143" height="143" src="/Image/RokiaMissaoui.png">
+                            <img alt="Rokia Missaoui" style="border:1px solid" width="143" height="143" src="Image/RokiaMissaoui.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -299,7 +299,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/andrzej.pelc.php">
-                            <img alt="Andrzej Pelc" style="border:1px solid" width="143" height="143" src="/Image/AndrzejPelc.png">
+                            <img alt="Andrzej Pelc" style="border:1px solid" width="143" height="143" src="Image/AndrzejPelc.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -316,7 +316,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/shamsodin.taheri.php">
-                            <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="/Image/ShamsodinTaheri.png">
+                            <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="Image/ShamsodinTaheri.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -333,7 +333,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/larbi.talbi.php">
-                            <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="/Image/LarbiTalbi.png">
+                            <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="Image/LarbiTalbi.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>
@@ -350,7 +350,7 @@
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/marek.zaremba.php">
-                            <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="/Image/MarekZaremba.png">
+                            <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="Image/MarekZaremba.png">
                         </a>
                     </div>
                     <div class="status2">&nbsp;</div>

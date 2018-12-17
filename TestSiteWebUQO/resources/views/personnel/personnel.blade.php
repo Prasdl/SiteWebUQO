@@ -8,7 +8,7 @@
         <div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Claudine Morais" style="border:1px solid" width="143" height="143" src="/Image/ClaudineMorais.png">
+                    <img alt="Claudine Morais" style="border:1px solid" width="143" height="143" src="Image/ClaudineMorais.png">
                 </div>
                 <div class="infos">
 <span class="textbold">Claudine&nbsp;Morais<br>
@@ -60,7 +60,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Antoine Shaneen" style="border:1px solid" width="143" height="143" src="/Image/AntoineShaneen.png">
+                    <img alt="Antoine Shaneen" style="border:1px solid" width="143" height="143" src="Image/AntoineShaneen.png">
                 </div>
                 <div class="infos">
 <span class="textbold">Antoine&nbsp;Shaneen<br>
@@ -77,7 +77,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Abdelkrim Chebihi" style="border:1px solid" width="143" height="143" src="/Image/AbdelkrimChebihi.png">
+                    <img alt="Abdelkrim Chebihi" style="border:1px solid" width="143" height="143" src="Image/AbdelkrimChebihi.png">
                 </div>
                 <div class="infos">
 <span class="textbold">Abdelkrim&nbsp;Chebihi<br>
