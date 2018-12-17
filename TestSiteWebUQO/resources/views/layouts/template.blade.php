@@ -177,8 +177,7 @@
 
             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Outils étudiants</a>
                 <div class="dropdown-content">
-                    <a href="/etudiants/cycleuninfo">1er cycle informatique</a>
-                    <a href="/etudiants/cycleungenie">1er cycle génie</a>
+                    <a href="/programmes/premiercycle">1er cycle</a>
                     <a href="/etudiants/cycledeux">2ᵉ cycle</a>
                     <a href="/etudiants/cycletrois">3ᵉ cycle</a>
                     <a  href="https://moodle.uqo.ca/" >Moodle</a>
