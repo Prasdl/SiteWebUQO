@@ -4,7 +4,7 @@
 
 @section('template')
 
-    <h1>RENSEIGNEMENTS UTILES POUR LES ÉTUDIANTS DE 1er CYCLE</h1>
+    <h1>RENSEIGNEMENTS UTILES POUR LES ÉTUDIANTS DE 1er CYCLE EN GÉNIE</h1>
     <ul>
         <li><p><a href="http://w4.uqo.ca/dii/pdf/gesficweb14032014.pdf">l'UQO met à la disposition de tous un espace disque de 100Mo sur le réseau
                     qui est accessible directement d'un ordinateur de l'UQO (disque U:)

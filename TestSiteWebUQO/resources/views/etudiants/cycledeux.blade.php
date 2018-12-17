@@ -169,6 +169,17 @@
 
         <li><p><a href="http://w4.uqo.ca/dii/stat/foire_questions_2e_cycle.html">Foire aux questions</a></p></li>
 
+        <li><p><a href="https://apps.uqo.ca/AdmissionEnLigne/Directives.aspx">Demande d'admission en ligne</a></p></li>
+
+        <li><p>Programmes de 2e cycle</p></li>
+        <ul>
+            <li><p><a href="http://etudier.uqo.ca/programmes/1642">Maîtrise en sciences et technologies de l'information (profil mémoire)</a></p></li>
+            <li><p><a href="http://etudier.uqo.ca/programmes/1643">Maîtrise en sciences et technologies de l'information (profil professionnel)</a></p></li>
+            <li> <p><a href="http://etudier.uqo.ca/programmes/1641">Diplôme d'études supérieures spécialisées en sciences et technologies de l'information</a></p></li>
+            <li> <p><a href="http://etudier.uqo.ca/programmes/0642">Programme court de deuxième cycle en télécommunications et sécurité</a></p></li>
+            <li><p><a href="http://etudier.uqo.ca/programmes/0641">Programme court de deuxième cycle en traitement des données</a></p></li>
+        </ul>
+
     </ul>
 
 @endsection

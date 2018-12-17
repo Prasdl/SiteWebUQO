@@ -11,6 +11,7 @@
         <li><p><a href="http://w4.uqo.ca/dii/module/TIC/TIC.pdf">Pourquoi choisir d'étudier l'informatique à l'UQO ?</a></p></li>
     </ul>
 
+
 @endsection
 
 

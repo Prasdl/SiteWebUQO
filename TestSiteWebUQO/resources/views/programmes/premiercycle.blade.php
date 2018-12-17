@@ -34,5 +34,28 @@
     </ul>
     <li><a href="https://apps.uqo.ca/AdmissionEnLigne/Directives.aspx">Demande d'admission en ligne</a></li>
 
+
+    <h1>RENSEIGNEMENTS UTILES POUR LES ÉTUDIANTS DE 1er CYCLE EN GÉNIE</h1>
+    <ul>
+        <li><p><a href="http://w4.uqo.ca/dii/pdf/gesficweb14032014.pdf">l'UQO met à la disposition de tous un espace disque de 100Mo sur le réseau
+                    qui est accessible directement d'un ordinateur de l'UQO (disque U:)
+                    ou depuis n'importe où via Symbiose (Mes documents).</a></p></li>
+        <li><p><a href="">Une séance d'exercices? Un travail dirigé? Un devoir?</a></p></li>
+        <li><p><a href="">Plans des locaux de laboratoires de génie</a></p></li>
+        <li><p><a href="">Logiciels installés par local</a></p></li>
+        <li><p><a href="">Manuels</a></p></li>
+        <li><p><a href="http://w4.uqo.ca/dii/stat/labos/laboGenie/santeEtsecurite.pdf">Santé et sécurité</a></p></li>
+
+        <li><p>Associations étudiantes :<a href=""> REI</a>,<a href=""> CEG</a>,<a href=""> AGE</a></p></li>
+        <li><p><a href="">Associations professionnelles</a></p></li>
+    </ul>
+
+    <h1>RENSEIGNEMENTS UTILES POUR LES ÉTUDIANTS DE 1er CYCLE DE L'INFORMATIQUE</h1>
+    <ul>
+        <li><p><a href="">Équivalence des cours</a></p></li>
+        <li><p><a href="http://etudier.uqo.ca/horaire">Horaire des cours (heure, salle)</a></p></li>
+        <li><p><a href="http://w4.uqo.ca/dii/module/TIC/TIC.pdf">Pourquoi choisir d'étudier l'informatique à l'UQO ?</a></p></li>
+    </ul>
+
 @endsection
 

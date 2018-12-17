@@ -33,7 +33,10 @@
             <li><p><a href="https://uqo.ca/etudiants/financer-vos-etudes/bourses-d-etudes">Bourses et aides financières (sur le site de l'UQO)</a></p></li>
             <li><p><a href="http://w4.uqo.ca/pelc/caldi/francais/bourses.htm">Bourse en calcul distribué (CALDI)</a></p></li>
         </ul>
-
+        <li><p>Programmes de 3e cycle</p></li>
+        <ul>
+            <li><p><a href="http://etudier.uqo.ca/programmes/3081">Doctorat en sciences et technologies de l'information</a></p></li>
+        </ul>
     </ul>
 
 @endsection
