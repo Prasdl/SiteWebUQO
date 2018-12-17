@@ -124,7 +124,7 @@
         .foote_bottom_ul li a { color:#999; margin:0 12px;}
 
         .social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
-        .social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+        .social_footer_ul li { padding-left:20px; padding-top:0px; float:left; }
         .social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
         .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
     </style>
@@ -152,51 +152,52 @@
         <a class="navbar-brand" href="https://uqo.ca/">UQO</a>
         <ul class="nav navbar-nav">
             <li><a href="/">Acceuil</a></li>
-            <li><a href="/partenaire">Partenaires éducatifs</a></li>
-            <li><a href="https://authentification.uqo.ca/cas/login?service=https%3A%2F%2Fuqo.ca%2Fuser">Intranet de l'UQO</a></li>
-            <li><a href="">Courriel</a></li>
-            <li><a href="https://uqo.ca/biblio">Bibliothèque</a></li>
-            <li><a href="">Intranet</a></li>
-            <li><a href="/plansite">Plan du site</a></li>
+            
 
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PROGRAMMES D'ÉTUDES</a>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Liens utiles</a>
                 <div class="dropdown-content">
-                    <a href="/informatique">INFO</a>
-                    <a href="/genie">GÉNIE</a>
+                    <a href="/partenaire">Partenaires éducatifs</a>
+                    <a href="https://authentification.uqo.ca/cas/login?service=https%3A%2F%2Fuqo.ca%2Fuser">Intranet de l'UQO</a>
+                    <a href="">Courriel</a>
+                    <a href="https://uqo.ca/biblio">Bibliothèque</a>
+                    <a href="">Intranet</a>
+                    <a href="/plansite">Plan du site</a>    
+                </div>
+            </li>
+
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Programmes d'études (Condenser programmes et outils.)</a>
+                <div class="dropdown-content">
+                    <a href="/informatique">Informatique</a>
+                    <a href="/genie">Génies</a>
                     <a  href="/programmes/premiercycle" >1er cycle</a>
                     <a href="/programmes/cycledeuxtrois" >2ᵉ et 3ᵉ cycles</a>
-                    <a  href="/programmes/plancours">Plans de cours</a>
+                    <a  href="/programmes/plancours">Plans de cours</a>                   
+                </div>
+            </li>
+
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Outils étudiants</a>
+                <div class="dropdown-content">
+                    <a href="/etudiants/cycleuninfo">1er cycle informatique</a>
+                    <a href="/etudiants/cycleungenie">1er cycle génie</a>
+                    <a href="/etudiants/cycledeux">2ᵉ cycle</a>
+                    <a href="/etudiants/cycletrois">3ᵉ cycle</a>
                     <a  href="https://moodle.uqo.ca/" >Moodle</a>
                 </div>
             </li>
 
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">ÉTUDIANTS</a>
-                <div class="dropdown-content">
-                    <a href="/etudiant/cycleuninfo">1er cycle informatique</a>
-                    <a href="/etudiant/cycleungenie">1er cycle génie</a>
-                    <a href="/etudiant/cycledeux">2ᵉ cycle</a>
-                    <a href="/etudiant/cycletrois">3ᵉ cycle</a>
-                </div>
-            </li>
-
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">RECHERCHE</a>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Recherche et personnel</a>
                 <div class="dropdown-content">
                     <a href="/recherche/domaine">Domaines de spécialisation</a>
                     <a href="/recherche/equipe">Équipes de recherche</a>
-                </div>
-            </li>
-
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">PERSONNEL</a>
-                <div class="dropdown-content">
                     <a href="/personnel/professeurs">Professeurs</a>
                     <a href="/personnel/personnel">Personnel</a>
                 </div>
             </li>
 
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">EMPLOIS</a>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Emplois</a>
                 <div class="dropdown-content">
                     <a href="/emploi/creer">Créer une offre d'emploi</a>
-                    <a href="emploi/offres">Offres d'emplois courantes</a>
+                    <a href="emploi/offres">Offres d'emplois disponibles</a>
                 </div>
             </li>
 
@@ -221,51 +222,40 @@
 <!–– Footer ––>
 
 <footer class="footer">
+    <!--
     <div class="container bottom_border">
         <div class="row">
             <div class=" col-sm-6 col-md  col-12 col">
                 <h5 class="headin5 col_white pt2">Pour nous joindre</h5>
-                <!--info-->
+                <!--info--> <!--
                 <p class="mb10">Département d'informatique et d'ingénierie - Université du Québec en Outaouais</p>
+                
+            </div>
                 <p><i class="fa fa-location-arrow"></i>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7</p>
                 <p><i class="fa fa-phone"></i> Tél.: 819-773-1600 Télécopieur: 819-773-1638</p>
                 <p><i class="fa fa fa-envelope"></i> info@example.com </p>
-            </div>
-
-            <div class=" col-sm-6 col-md  col-12 col">
-                <h5 class="headin5 col_white pt2">Nous suivre</h5>
-                <!--twitter-->
-                <ul class="footer_ul2">
-                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
-                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
-                    <li><a href="#"><i class="fa fa-twitter fleft padding-right"></i> </a><p>Lorem Ipsum is simply dummy text of the printing...<a href="#">https://www.lipsum.com/</a></p></li>
-                </ul>
-
-            </div>
         </div>
+                -->
     </div>
 
 
     <div class="container">
+        <!--
         <ul class="foote_bottom_ul">
             <li><a href="https://uqo.ca/">UQO</a></li>
             <li><a href="/">Acceuil</a></li>
         </ul>
-
-        <p class="text-center">Copyright @2018 | Conçu par <a href="#">Martine Chamberland et Jean-Philipe Tremblay</a></p>
+        -->
+        <p class="text-center">Copyright @2018 | Conçu par Martine Chamberland et Jean-Philipe Tremblay</p>
         <!--Réseaux sociaux-->
         <ul class="social_footer_ul">
-            <li><a href=""><i class="fa fa-facebook-f"></i></a></li>
-            <li><a href=""><i class="fa fa-twitter"></i></a></li>
-            <li><a href=""><i class="fa fa-linkedin"></i></a></li>
-            <li><a href=""><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://www.facebook.com/Universite.Quebec.Outaouais/"><i class="fa fa-facebook-f"></i></a></li>
+            <li><a href="https://twitter.com/uqo?lang=en"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.linkedin.com/school/universite-du-quebec-en-outaouais/"><i class="fa fa-linkedin"></i></a></li>
         </ul>
-
     </div>
-
+    
 </footer>
-
-
 
 </html>
 
