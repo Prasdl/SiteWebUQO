@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e46688d3-7988-490a-bdbe-c96984237c7d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AbdelkrimChebihi.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AbdelkrimChebihi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AhmedLakhssassi.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AhmedLakhssassi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AlainCharbonneau.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AlainCharbonneau.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AlanDavoust.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AlanDavoust.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AndrzejPelc.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AndrzejPelc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/AntoineShaneen.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/AntoineShaneen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/ClaudineMorais.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/ClaudineMorais.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/FrédéricLesage.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/FrédéricLesage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/IlhamBenyahia.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/IlhamBenyahia.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/JurekCzyzowicz.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/JurekCzyzowicz.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/KamelAdi.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/KamelAdi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/KarimElGuemhioui.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/KarimElGuemhioui.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/LarbiTalbi.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/LarbiTalbi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/LuigiLogrippo.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/LuigiLogrippo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/MarekZaremba.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/MarekZaremba.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/MichaelKorwin-Pawlowski.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/MichaelKorwin-Pawlowski.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/MichalIglewski.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/MichalIglewski.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/MohandS.Allili.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/MohandS.Allili.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/NadiaBaaziz.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/NadiaBaaziz.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/OmarAbdulWahab.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/OmarAbdulWahab.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/RokiaMissaoui.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/RokiaMissaoui.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/ShamsodinTaheri.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/ShamsodinTaheri.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/TinkoEftimov.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/TinkoEftimov.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/Image/WojtekJ.Bock.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/WojtekJ.Bock.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/Background.png" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/Image/Background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/styletemplate.css" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SiteWebUQO.iml" afterPath="$PROJECT_DIR$/.idea/SiteWebUQO.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" afterPath="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css" afterPath="$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,11 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="template.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="204">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styletemplate.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -93,6 +87,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Zhane_Nox@hotmail.ca" />
         <option value="Martine &lt;zhane_nox@hotmail.ca&gt;" />
         <option value="martine &lt;zhane_nox@hotmail.ca&gt;" />
       </list>
@@ -128,9 +123,10 @@
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/etudiants/cycledeux.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/etudiants/cycletrois.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/routes/web.php" />
-        <option value="$PROJECT_DIR$/TestSiteWebUQO/.env" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/personnel/personnel.blade.php" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/personnel/professeurs.blade.php" />
+        <option value="$PROJECT_DIR$/TestSiteWebUQO/.env" />
+        <option value="$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css" />
         <option value="$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php" />
       </list>
     </option>
@@ -188,27 +184,6 @@
               <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="SiteWebUQO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="TestSiteWebUQO" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -269,7 +244,7 @@
       <workItem from="1544547331753" duration="15721000" />
       <workItem from="1544631733003" duration="2729000" />
       <workItem from="1545072046609" duration="4987000" />
-      <workItem from="1545078304313" duration="711000" />
+      <workItem from="1545078304313" duration="1174000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1539018937757</created>
@@ -418,11 +393,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545076675375</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Mis les image et le css dans le dossier public">
+      <created>1545079925884</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545079925884</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52850000" />
+    <option name="totallyTimeSpent" value="53313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -493,14 +475,14 @@
     <MESSAGE value="modifie les route" />
     <MESSAGE value="Commencer les page personnel et professeure" />
     <MESSAGE value="Les images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Les images" />
+    <MESSAGE value="Mis les image et le css dans le dossier public" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mis les image et le css dans le dossier public" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SiteWebUQO/.gitignore" />
     <entry file="file://$PROJECT_DIR$/SiteWebUQO/.gitignore" />
     <entry file="file://$PROJECT_DIR$/SiteWebUQO/.gitattributes" />
     <entry file="file://$PROJECT_DIR$/test" />
@@ -747,7 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/.env" />
     <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/personnel/personnel.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
@@ -764,10 +745,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/resources/views/layouts/template.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="204">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSiteWebUQO/public/css/styletemplate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
