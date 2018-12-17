@@ -55,14 +55,6 @@ Route::get('/etudiants/cycletrois', function () {
     return view('/etudiants/cycletrois');
 });
 
-Route::get('/etudiants/cycleungenie', function () {
-    return view('/etudiants/cycleungenie');
-});
-
-Route::get('/etudiants/cycleuninfo', function () {
-    return view('/etudiants/cycleuninfo');
-});
-
 // Route les pages de programmes
 Route::get('/programmes/cycledeuxtrois', function () {
     return view('/programmes/cycledeuxtrois');
