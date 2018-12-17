@@ -37,8 +37,7 @@
         }
 
         body{
-            background-image: url("Image/Background.png");;
-
+            background-image: url("Background.png");
         }
 
         .main {
