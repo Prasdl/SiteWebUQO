@@ -37,7 +37,7 @@
         }
 
         body{
-            background-image: url("../../../public/Image/Background.png");
+            background-image: url("../../../public/img/Background.png");
         }
 
         .main {
