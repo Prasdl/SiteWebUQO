@@ -24,7 +24,7 @@
     <script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/src/js/bootstrap-datetimepicker.js"></script>
 
     <!-- fonctionne pas  -->
-    <link rel="stylesheet" type="text/css" href="../../../public/css/styletemplate.css">
+    <link rel="stylesheet" type="text/css" href="public/css/styletemplate.css">
 
     <!-- Librairie pour les icônes -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -37,7 +37,7 @@
         }
 
         body{
-            background-image: url("../../../public/img/Background.png");
+            background-image: url('img/background');
         }
 
         .main {
