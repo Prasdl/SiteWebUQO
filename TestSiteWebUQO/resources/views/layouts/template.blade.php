@@ -158,28 +158,20 @@
                     <a href="/partenaire">Partenaires éducatifs</a>
                     <a href="https://authentification.uqo.ca/cas/login?service=https%3A%2F%2Fuqo.ca%2Fuser">Intranet de l'UQO</a>
                     <a href="">Courriel</a>
+                    <a href="https://moodle.uqo.ca/" >Moodle</a>
                     <a href="https://uqo.ca/biblio">Bibliothèque</a>
                     <a href="">Intranet</a>
                     <a href="/plansite">Plan du site</a>    
                 </div>
             </li>
 
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Programmes d'études (Condenser programmes et outils.)</a>
+            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Information programmes d'études</a>
                 <div class="dropdown-content">
                     <a href="/informatique">Informatique</a>
                     <a href="/genie">Génies</a>
                     <a  href="/programmes/premiercycle" >1er cycle</a>
                     <a href="/programmes/cycledeuxtrois" >2ᵉ et 3ᵉ cycles</a>
                     <a  href="/programmes/plancours">Plans de cours</a>                   
-                </div>
-            </li>
-
-            <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Outils étudiants</a>
-                <div class="dropdown-content">
-                    <a href="/programmes/premiercycle">1er cycle</a>
-                    <a href="/etudiants/cycledeux">2ᵉ cycle</a>
-                    <a href="/etudiants/cycletrois">3ᵉ cycle</a>
-                    <a  href="https://moodle.uqo.ca/" >Moodle</a>
                 </div>
             </li>
 
