@@ -195,13 +195,13 @@
             <?php
                 use Illuminate\Support\Facades\Auth;
                 if (Auth::user()) {
-                    echo "<li>";
-                    echo "<a href='/logout'>Deconnexion</a>";
-                    echo "</li>";
-                    echo "<li>";
+                    echo "<li class='dropdown'>";
                         echo "<p style='color: #999; padding-top: 15px'>";
                         echo "Bienvenue, " . Auth::user()->name . "!";
                         echo "</p>";
+                        echo "<div class='dropdown-content'>";
+                        echo "<a href='/logout' >Deconnexion</a>";
+                        echo "</div>";                   
                     echo "</li>";
                 } else {
                     echo "<li>";
