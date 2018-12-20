@@ -15,8 +15,7 @@ Fichier todo:
 -Ajouter une image à la page d'acceuil
 -Mettre le template sur les vues d'authentification (Login, reset, confirm, etc)
 
--BUG: L'image de font ne load pas, je sais pas pourquoi
+-BUG: L'image de fond ne load pas, je sais pas pourquoi
 -BUG: Y'a de quoi qui bloque le footer dans le coin gauche en bas (Page "Offres")
--BUG: Y'a un petit "UQO" semi-transparent juste a coté de la barre de recherche.
 
 

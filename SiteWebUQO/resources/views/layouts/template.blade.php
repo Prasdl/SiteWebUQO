@@ -201,10 +201,26 @@
                     <a href="/emploi/offres">Offres d'emplois disponibles</a>
                 </div>
             </li>
-
-            <li> <a href="auth/login">Se connecter</a></li>
+            <?php
+                if (Auth::user()) {
+                    echo "<li>";
+                    echo "<p style='color: white;'>";
+                    echo "Bienvenue, " . Auth::user()->name . ".";
+                    echo "</p>";
+                    echo "<input type ='submit' name='Deconnection' value='Deconnection' onclick='Deconnection'/>";
+                    function Deconnection(){
+                        Auth:logout;
+                    }
+                    echo "</li>";
+                } else {
+                    echo "<li>";
+                    echo "<a href='/login'>Se connecter</a>";
+                    echo "</li>";
+                }
+            ?>
 
             <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
+
             <li >
                 <form id="txtrecherche" method="get" style="display: none" action="http://www.google.com/search">
                     <input type="text" name="q" size="31" maxlength="255" value="" />
