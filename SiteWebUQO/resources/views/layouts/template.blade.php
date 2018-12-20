@@ -47,7 +47,7 @@
         }
 
         body{
-            background-image: url('img/background');
+            background-image: url('../public/img/UniversiteBackground.jpg');
         }
 
         .main {
@@ -56,9 +56,9 @@
             font-size: 16px;
             height: 100%;
             padding-top: 52px;
-            padding-bottom: 500px;
+            padding-bottom: 595px;
             background-color: #d8d8d8;
-            width:80%;
+            width:75%;
             margin: auto;
         }
 
@@ -157,12 +157,12 @@
 
 <!–– Bar de navigation  ––>
 <div class="navtop"  style="position: fixed;top: 0px;" >
-    <nav class="navbar navbar-inverse">
-        <a class="navbar-brand" href="https://uqo.ca/">UQO</a>
+    <nav class="navbar navbar-inverse" style="padding-left: 500px; >
+        <a  href="https://uqo.ca/"></a> <!-- Ca sert a rien mais ca empeche le reste de briser ou de faire apparaite un "UQO" pour rien -->
         <ul class="nav navbar-nav">
+        <li><a class="navbar-brand" href="https://uqo.ca/">UQO</a></li>
             <li><a href="/">Acceuil</a></li>
             
-
             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Liens utiles</a>
                 <div class="dropdown-content">
                     <a href="/partenaire">Partenaires éducatifs</a>
@@ -179,9 +179,10 @@
                 <div class="dropdown-content">
                     <a href="/informatique">Informatique</a>
                     <a href="/genie">Génies</a>
-                    <a  href="/programmes/premiercycle" >1er cycle</a>
-                    <a href="/programmes/cycledeuxtrois" >2ᵉ et 3ᵉ cycles</a>
-                    <a  href="/programmes/plancours">Plans de cours</a>                   
+                    <a href="/programmes/premiercycle" >1er cycle</a>
+                    <a href="/programmes/cycledeux" >2ᵉ cycle</a>
+                    <a href="/programmes/cycletrois" >3ᵉ cycle</a>
+                    <a href="/programmes/plancours">Plans de cours</a>                   
                 </div>
             </li>
 
@@ -201,14 +202,15 @@
                 </div>
             </li>
 
+            <li> <a href="auth/login">Se connecter</a></li>
+
             <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
             <li >
                 <form id="txtrecherche" method="get" style="display: none" action="http://www.google.com/search">
                     <input type="text" name="q" size="31" maxlength="255" value="" />
                     <input type="submit" value="Search" />
                 </form>
-            </li>
-            <li> <a href="auth/login">Se connecter</a></li>
+            </li>           
         </ul>
     </nav>
 
@@ -233,10 +235,10 @@
                 <p><i class="fa fa-location-arrow"></i>101, Saint-Jean-Bosco, C.P. 1250, succursale Hull, Gatineau (Québec) Canada, J8X 3X7</p>
                 <p><i class="fa fa-phone"></i> Tél.: 819-773-1600 Télécopieur: 819-773-1638</p>
                 <p><i class="fa fa fa-envelope"></i> info@example.com </p>
+            </div>
+               
         </div>
-                -->
-    </div>
-
+     -->
 
     <div class="container">
         <!--
@@ -252,8 +254,7 @@
             <li><a href="https://twitter.com/uqo?lang=en"><i class="fa fa-twitter"></i></a></li>
             <li><a href="https://www.linkedin.com/school/universite-du-quebec-en-outaouais/"><i class="fa fa-linkedin"></i></a></li>
         </ul>
-    </div>
-    
+    </div>  
 </footer>
 
 </html>

@@ -56,12 +56,17 @@ Route::get('/etudiants/cycletrois', function () {
 });
 
 // Route les pages de programmes
-Route::get('/programmes/cycledeuxtrois', function () {
-    return view('/programmes/cycledeuxtrois');
+Route::get('/programmes/cycledeux', function () {
+    return view('/programmes/cycledeux');
 });
 
 Route::get('/programmes/premiercycle', function () {
     return view('/programmes/premiercycle');
+});
+
+// Route les pages de programmes
+Route::get('/programmes/cycletrois', function () {
+    return view('/programmes/cycletrois');
 });
 
 Route::get('/programmes/plancours', function () {

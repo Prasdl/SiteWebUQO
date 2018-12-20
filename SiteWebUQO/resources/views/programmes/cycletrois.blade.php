@@ -4,7 +4,18 @@
 
 @section('template')
 
-    <h1>RENSEIGNEMENTS UTILES POUR LES ÉTUDIANTS DE 3e CYCLE</h1>
+<h1>Programmes d'études de 3e cycle:</h1>
+    <ul>
+
+        <li><p><a href="https://apps.uqo.ca/AdmissionEnLigne/Directives.aspx">Demande d'admission en ligne</a></p></li>
+
+        <li><p>Programmes de 3e cycle</p></li>
+            <ul>
+                <li><p><a href="http://etudier.uqo.ca/programmes/3081">Doctorat en sciences et technologies de l'information</a></p></li>
+            </ul>
+    </ul>
+
+    <h1>Renseignements utiles pour les étudiants de 3e cycle:</h1>
     <ul>
 
         <li><p>Formulaires</p></li>

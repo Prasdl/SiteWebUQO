@@ -1,11 +1,22 @@
 Fichier todo:
 
--Centrer les elements de la barre du haut
--Combiner des pages pour reduire la taille de la barre d'en haut
--Refonte de la page d'acceuil plz (S'inspirer de la page d'acceuil du site de l'UQO)
--Formatter les pages pour qu'elles soient belles
+-Priorités: Panels qui pop
+            Continuer a rafiner l'interface
+            Hoster le site
+            Validation et authentification
+            Bugfixes
+
+-Faire les panels de la page professeurs et mettre un script pour devoiler le panel et son information.
+-Refonte de la page d'acceuil plz (S'inspirer de la page d'acceuil du site de l'UQO) -Ajouter quelques images dans le body, et avec le background ca devrait etre pas pire
+-Formatter les pages pour qu'elles soient belles DONE(ish)
 -Hoster le site
 -Faire de la validation dans les champs lorsqu'ils ne sont pas corrects.
--Intégrer l'authtification si on a le temps
+-Intégrer l'authtification si on a le temps, elle marche de base mais check rien. -Faire rouler un script si la personne est deja connectée, etc.
+-Ajouter une image à la page d'acceuil
+-Mettre le template sur les vues d'authentification (Login, reset, confirm, etc)
+
+-BUG: L'image de font ne load pas, je sais pas pourquoi
+-BUG: Y'a de quoi qui bloque le footer dans le coin gauche en bas (Page "Offres")
+-BUG: Y'a un petit "UQO" semi-transparent juste a coté de la barre de recherche.
 
 
