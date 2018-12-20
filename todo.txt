@@ -7,8 +7,6 @@ Fichier todo:
             Bugfixes
 
 -Faire les panels de la page professeurs et mettre un script pour devoiler le panel et son information.
--Refonte de la page d'acceuil plz (S'inspirer de la page d'acceuil du site de l'UQO) -Ajouter quelques images dans le body, et avec le background ca devrait etre pas pire
--Formatter les pages pour qu'elles soient belles DONE(ish)
 -Hoster le site
 -Faire de la validation dans les champs lorsqu'ils ne sont pas corrects.
 -Intégrer l'authtification si on a le temps, elle marche de base mais check rien. -Faire rouler un script si la personne est deja connectée, etc.

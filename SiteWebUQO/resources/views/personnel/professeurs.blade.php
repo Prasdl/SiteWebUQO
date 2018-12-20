@@ -2,7 +2,7 @@
 
 @section('template')
 
-    <div id="contenu">
+    <div id="contenu" class="panel panel-default">
         <p class="text" id="cliquer">Cliquer un nom ou une photo pour avoir plus d'information sur le professeur.<br>
         </p>
         <div id="professeurs">
