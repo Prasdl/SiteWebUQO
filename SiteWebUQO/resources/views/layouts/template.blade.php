@@ -197,7 +197,7 @@
             <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Emplois</a>
                 <div class="dropdown-content">
                     <a href="/emploi/creer">Créer une offre d'emploi</a>
-                    <a href="emploi/offres">Offres d'emplois disponibles</a>
+                    <a href="/emploi/offres">Offres d'emplois disponibles</a>
                 </div>
             </li>
 
@@ -208,12 +208,11 @@
                     <input type="submit" value="Search" />
                 </form>
             </li>
-
+            <li> <a href="auth/login">Se connecter</a></li>
         </ul>
     </nav>
 
 </div>
-
 
 <div class="main" >@yield('template')</div>
 

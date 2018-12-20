@@ -94,6 +94,7 @@ Route::get('/emploi/offres', function() {
     return view('emploi/offres');
 });
 
+//Stocke les entrées dans la BD
 Route::post('/emploi/creer', 'HomeController@store');
 
 Auth::routes();

@@ -4,13 +4,14 @@
 
 @section('template')
 
-    <h1>CRÉER UNE OFFRE D'EMPLOI</h1>
+    <h1>Créer une offre d'emploi</h1>
 
     <?php
+    
     // définition des variables et leurs initialisation
     $EmployeurError = $coordoError = $connError = $nbetuError = $descripError ="";
     $emp = $coordo = $conn = $descrip = $nbetu = "";
-
+    /*
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($_POST["Employeur"])) {
         $EmployeurError = "L'employeur est requis";
@@ -28,16 +29,18 @@
             }
         }
     }
+    */
     ?>
 
-    <form method="post" action="">
+    <form method="post" action="/emploi/creer">
+    @csrf
         Employeur: <input type="text" name="Employeur" value="<?php echo $emp;?>">
         <span class="error">* <?php echo $EmployeurError;?></span>
         <br><br>
-        Coordonnées: <input type="text" name="coordo" value="<?php echo $coordo;?>">
+        Coordonnées: <input type="text" name="Coordonnees" value="<?php echo $coordo;?>">
         <span class="error">* <?php echo $coordoError;?></span>
         <br><br>
-        Type d'étudiant: <select name="etu" onchange="if (this.selectedIndex) doSomething();">
+        Type d'étudiant: <select name="TypeEtudiant" onchange="if (this.selectedIndex) doSomething();">
             <option>Diplômé, génie</option>
             <option>Diplômé, info</option>
             <option>Non diplômé, génie</option>
@@ -45,13 +48,13 @@
             <option>Sans importance</option>
         </select>
         <br><br>
-        Connaissances spécifiques: <textarea name="conn" rows="5" cols="40"><?php echo $conn;?></textarea>
+        Connaissances spécifiques: <textarea name="Connaissances" rows="5" cols="40"><?php echo $conn;?></textarea>
         <span class="error"><?php echo $connError;?></span>
         <br><br>
-        Description Emploi: <textarea name="description" rows="5" cols="40"><?php echo $descrip;?></textarea>
+        Description Emploi: <textarea name="DescriptionEmploi" rows="5" cols="40"><?php echo $descrip;?></textarea>
         <span class="error"><?php echo $descripError;?></span>
         <br><br>
-        Nombre d'étudiants: <input type="text" name="nbetu" value="<?php echo $nbetu;?>">
+        Nombre d'étudiants: <input type="text" name="NombreEtudiants" value="<?php echo $nbetu;?>">
         <span class="error">* <?php echo $nbetuError;?></span>
         <br><br>
 
@@ -62,7 +65,7 @@
         <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="form-group ">
-            <label class="control-label col-sm-2 requiredField" for="date">
+            <label class="control-label col-sm-2 requiredField" for="DateFinAffichage">
             Date de fin d'affichage
             <span class="asteriskField">
                 *
@@ -74,7 +77,7 @@
                 <i class="fa fa-calendar">
                 </i>
                 </div>
-                <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/>
+                <input class="form-control" id="DateFinAffichage" name="DateFinAffichage" placeholder="JJ/MM/AAAA" type="text"/>
             </div>
             </div>
             </div>
@@ -98,17 +101,17 @@
 
     <script>
         $(document).ready(function(){
-            var date_input=$('input[name="date"]'); //our date input has the name "date"
+            var date_input=$('input[name="DateFinAffichage"]'); //our date input has the name "date"
             var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
             date_input.datepicker({
-            format: 'mm/dd/yyyy',
+            format: 'yyyy/mm/dd',
             container: container,
             todayHighlight: true,
             autoclose: true,
         })
 	})
     </script>
-
+    <input type="submit" value="Submit">
     </form>
 
 @endsection
