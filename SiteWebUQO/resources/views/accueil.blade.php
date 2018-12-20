@@ -3,7 +3,7 @@
 
 @section('template')
 
-    <h2>Voici les évènement récents:</h1>
+    <h1>Voici les évènement récents:</h1>
 
     <p>2018/12/20 - Invitation - Présentation de projet de thèse,
     Présentation de projet de thèse - INF9009 - Doctorat en sciences et technologies de l'information </p>
