@@ -11,8 +11,8 @@
                     <img alt="Claudine Morais" style="border:1px solid" width="143" height="143" src="/img/ClaudineMorais.png">
                 </div>
                 <div class="infos">
-<span class="textbold">Claudine&nbsp;Morais<br>
-</span>
+                <span class="textbold">Claudine&nbsp;Morais<br>
+                </span>
                     <b>Bur. : </b>
                     <span class="textsmall">B-0122</span>
                     <br>
