@@ -1,5 +1,9 @@
 Fichier todo:
 
--Créer des postings (Insertion et interrogation de la base de données) Utiliser des methodes insert et etc, pas besoin d'eloquent dans le controlleur
--Vérifier si il manque de l'information ou des pages sur le site
--Enlever la barre de scrolling de la sidebar
+-Centrer les elements de la barre du haut
+-Combiner des pages pour reduire la taille de la barre d'en haut
+-Finir le code de la BDD pour insertion et affichage des offres d'emplois
+-Refonte de la page d'acceuil plz (S'inspirer de la page d'acceuil du site de l'UQO)
+-Formatter les pages pour qu'elles soient belles
+
+

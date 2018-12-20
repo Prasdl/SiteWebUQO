@@ -55,29 +55,60 @@
         <span class="error">* <?php echo $nbetuError;?></span>
         <br><br>
 
-        Date de fin d'affichage: <!-- Credit: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
-        <div class="main">
-            <div class="row">
-                <div class='col-sm-6'>
-                    <div class="form-group">
-                        <div class='input-group date' id='datetimepicker1'>
-                            <input type='text' class="form-control" />
-                            <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-calendar"></span>
-                    </span>
-                        </div>
-                    </div>
+        <!-- Source du DateTimePicker (Modifié): https://formden.com/download-code/form_MlKtmY4x.html -->
+        <!-- HTML Form (wrapped in a .bootstrap-iso div) -->
+        <div class="bootstrap-iso">
+        <div class="container-fluid">
+        <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="form-group ">
+            <label class="control-label col-sm-2 requiredField" for="date">
+            Date de fin d'affichage
+            <span class="asteriskField">
+                *
+            </span>
+            </label>
+            <div class="col-sm-10">
+            <div class="input-group">
+                <div class="input-group-addon">
+                <i class="fa fa-calendar">
+                </i>
                 </div>
-                <script type="text/javascript">
-                    $(function () {
-                        $('#datetimepicker1').datetimepicker();
-                    });
-                </script>
+                <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/>
+            </div>
+            </div>
+            </div>
+            <div class="form-group">
+            <div class="col-sm-10 col-sm-offset-2">
+            <input name="_honey" style="display:none" type="text"/>
+            </div>
             </div>
         </div>
+        </div>
+        </div>
+    </div>
 
-        <br><br>
-        <input type="submit" name="submit" value="Submit">
+    <!-- Extra JavaScript/CSS added manually in "Settings" tab -->
+    <!-- Include jQuery -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <!-- Include Date Range Picker -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+
+    <script>
+        $(document).ready(function(){
+            var date_input=$('input[name="date"]'); //our date input has the name "date"
+            var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+            date_input.datepicker({
+            format: 'mm/dd/yyyy',
+            container: container,
+            todayHighlight: true,
+            autoclose: true,
+        })
+	})
+    </script>
+
     </form>
 
 @endsection
