@@ -32,6 +32,12 @@ class HomeController extends Controller
         //
     }
 
+    //Fonction de logout
+    public function logout(Request $request){
+        Auth::logout();
+        return redirect('/');
+    }
+
     //Inserer une offre dans la BD
     public function store(Request $request){
         //Creer l'offre

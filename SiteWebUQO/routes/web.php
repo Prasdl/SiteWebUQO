@@ -104,7 +104,7 @@ Route::post('/emploi/creer', 'HomeController@store');
 
 Auth::routes();
 
-
+Route::get('logout', 'HomeController@logout');
 
 Route::get('/home', 'HomeController@index')->name('home');
 

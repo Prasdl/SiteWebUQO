@@ -3,7 +3,9 @@
 
 @section('template')
 
-    <h2>Voici les évènement récents:</h1>
+    <!-- Test, y'a de quoi qui ne marche pas avec le background image <style>body{background-image: {{ asset('img/UniversiteBackground.jpg') }}}</style> -->
+
+    <h1>Voici les évènement récents:</h1>
 
     <p>2018/12/20 - Invitation - Présentation de projet de thèse,
     Présentation de projet de thèse - INF9009 - Doctorat en sciences et technologies de l'information </p>
@@ -20,7 +22,9 @@
     <p>2018/12/06 - Invitation - Séminaire en STI,
     Présentation, dans le cadre du cours INF9073, du Dr Fawzi Hassaine. Le jeudi 6 décembre 2018 à 16 h</p>
 
-
+    <div>
+        <img src="/img/UniversiteBackground.jpg">
+    </div>
 @endsection
 
 

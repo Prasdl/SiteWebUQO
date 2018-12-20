@@ -4,7 +4,7 @@
 
 @section('template')
 
-    <h1>Créer une offre d'emploi</h1>
+    <h1>Offres d'emploi disponibles</h1>
 
     <?php
     //use App\Offre;
@@ -16,22 +16,22 @@
     echo '<table class="data-table">
             <tr class="data-heading">';
             echo '<td>' . "Employeur: " . '</td>';
-            echo '<td>' . "Coordonnées: " . '</td>';
-            echo '<td>' . "Type d'étudiant: " . '</td>';
-            echo '<td>' . "Connaissances: " . '</td>';
-            echo '<td>' . "Description d'emploi: " . '</td>';
-            echo '<td>' . "Nombre d'étudiants: " . '</td>';
-            echo '<td>' . "Date de fin d''affichage: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Coordonnées: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Type d'étudiant: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Connaissances: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Description d'emploi: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Nombre d'étudiants: " . '</td>';
+            echo '<td style="padding-left: 15px;">' . "Date de fin d''affichage: " . '</td>';
             echo '</tr>';
     foreach($offres as $offre){
-        echo '<tr>';
-        echo '<td>' . $offre->Employeur . '</td>';
-        echo '<td>' . $offre->Coordonnees . '</td>';
-        echo '<td>' . $offre->TypeEtudiant . '</td>';
-        echo '<td>' . $offre->Connaissances . '</td>';
-        echo '<td>' . $offre->DescriptionEmploi . '</td>';
-        echo '<td>' . $offre->NombreEtudiants . '</td>';
-        echo '<td>' . $offre->DateFinAffichage . '</td>';
+        echo "<tr>";
+        echo '<td style="padding-top: 10px;">' . $offre->Employeur . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->Coordonnees . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->TypeEtudiant . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->Connaissances . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->DescriptionEmploi . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->NombreEtudiants . '</td>';
+        echo '<td style="padding-left: 25px; padding-top: 10px;">' . $offre->DateFinAffichage . '</td>';
         echo '</tr>';
     }
     ?>

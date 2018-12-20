@@ -4,10 +4,6 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- importer le JQuery -->
-    <script src="{{ asset('resources/js/jquery/jquery-2.2.4.min.js') }}"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     
     <!--formden.js communicates with FormDen server to validate fields and submit via AJAX -->
     <script type="text/javascript" src="https://formden.com/static/cdn/formden.js"></script>
@@ -28,13 +24,8 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" type="text/css" media="screen" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link href="./css/prettify-1.0.css" rel="stylesheet">
-    <link href="./css/base.css" rel="stylesheet">
     <link href="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
     <script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/e8bddc60e73c1ec2475f827be36e1957af72e2ea/src/js/bootstrap-datetimepicker.js"></script>
-
-    <!-- fonctionne pas  -->
-    <link rel="stylesheet" type="text/css" href="public/css/styletemplate.css">
 
     <!-- Librairie pour les icônes -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -47,7 +38,7 @@
         }
 
         body{
-            background-image: url('../public/img/UniversiteBackground.jpg');
+            background-image: {{ asset('img/UniversiteBackground.jpg') }}
         }
 
         .main {
@@ -202,15 +193,15 @@
                 </div>
             </li>
             <?php
+                use Illuminate\Support\Facades\Auth;
                 if (Auth::user()) {
                     echo "<li>";
-                    echo "<p style='color: white;'>";
-                    echo "Bienvenue, " . Auth::user()->name . ".";
-                    echo "</p>";
-                    echo "<input type ='submit' name='Deconnection' value='Deconnection' onclick='Deconnection'/>";
-                    function Deconnection(){
-                        Auth:logout;
-                    }
+                    echo "<a href='/logout'>Deconnexion</a>";
+                    echo "</li>";
+                    echo "<li>";
+                        echo "<p style='color: #999; padding-top: 15px'>";
+                        echo "Bienvenue, " . Auth::user()->name . "!";
+                        echo "</p>";
                     echo "</li>";
                 } else {
                     echo "<li>";
@@ -221,10 +212,10 @@
 
             <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
 
-            <li >
+            <li style="padding-top: 10px;">
                 <form id="txtrecherche" method="get" style="display: none" action="http://www.google.com/search">
                     <input type="text" name="q" size="31" maxlength="255" value="" />
-                    <input type="submit" value="Search" />
+                    <input type="submit" value="Recherche" />
                 </form>
             </li>           
         </ul>
