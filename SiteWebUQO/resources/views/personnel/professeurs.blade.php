@@ -14,15 +14,18 @@
                 </div>
                 <div class="status2">&nbsp;</div>
                 <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/omar.abdulwahab.php">Omar&nbsp;Abdul&nbsp;Wahab</a>
-<br>
-</span>
+                <span class="textbold">
+                <a href="dyn/profs/omar.abdulwahab.php">Omar&nbsp;Abdul&nbsp;Wahab</a>
+                <br>
+                </span>
                     <b>Bur. : </b>B-2024<br>
                     <b>Tél. : </b> <br>
                     <span class="textvsmall"> </span>
                 </div>
             </div>
+
+
+
             <div id="professeurs">
                 <div class="entry">
                     <div class="picture">
@@ -32,15 +35,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/kamel.adi.php">Kamel&nbsp;Adi</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/kamel.adi.php">Kamel&nbsp;Adi</a>
+                        <br>
+                    </span>
                         <b>Bur. : </b>B-2012<br>
                         <b>Tél. : </b>1813<br>
                         <span class="textvsmall">kamel.adi@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/mohand.allili.php">
@@ -49,15 +54,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/mohand.allili.php">Mohand S.&nbsp;Allili</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/mohand.allili.php">Mohand S.&nbsp;Allili</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2022<br>
                         <b>Tél. : </b>1601<br>
                         <span class="textvsmall">mohandsaid.allili@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/nadia.baaziz.php">
@@ -66,15 +73,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/nadia.baaziz.php">Nadia&nbsp;Baaziz</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/nadia.baaziz.php">Nadia&nbsp;Baaziz</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2041<br>
                         <b>Tél. : </b>1600<br>
                         <span class="textvsmall">nadia.baaziz@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/ilham.benyahia.php">
@@ -83,15 +92,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/ilham.benyahia.php">Ilham&nbsp;Benyahia</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/ilham.benyahia.php">Ilham&nbsp;Benyahia</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2034<br>
                         <b>Tél. : </b>1749<br>
                         <span class="textvsmall">ilham.benyahia@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/wojtek.bock.php">
@@ -100,15 +111,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/wojtek.bock.php">Wojtek J.&nbsp;Bock</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/wojtek.bock.php">Wojtek J.&nbsp;Bock</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2016<br>
                         <b>Tél. : </b>1623<br>
                         <span class="textvsmall">wojtek.bock@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/alain.charbonneau.php">
@@ -126,6 +139,8 @@
                         <span class="textvsmall">alain.charbonneau@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/jurek.czyzowicz.php">
@@ -143,6 +158,8 @@
                         <span class="textvsmall">jurek@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/alan.davoust.php">
@@ -151,15 +168,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/alan.davoust.php">Alan&nbsp;Davoust</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/alan.davoust.php">Alan&nbsp;Davoust</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2073<br>
                         <b>Tél. : </b> <br>
                         <span class="textvsmall"> </span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/tinko.eftimov.php">
@@ -168,15 +187,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/tinko.eftimov.php">Tinko&nbsp;Eftimov</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/tinko.eftimov.php">Tinko&nbsp;Eftimov</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2018<br>
                         <b>Tél. : </b>1734<br>
                         <span class="textvsmall">tinko.eftimov@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/karim.elguemhioui.php">
@@ -185,15 +206,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/karim.elguemhioui.php">Karim&nbsp;El Guemhioui</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/karim.elguemhioui.php">Karim&nbsp;El Guemhioui</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-0123<br>
                         <b>Tél. : </b>1620<br>
                         <span class="textvsmall">karim.elguemhioui@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/michal.iglewski.php">
@@ -202,15 +225,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/michal.iglewski.php">Michal&nbsp;Iglewski</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/michal.iglewski.php">Michal&nbsp;Iglewski</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2024<br>
                         <b>Tél. : </b>1602<br>
                         <span class="textvsmall">iglewski@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/michael.korwin-pawlowski.php">
@@ -219,15 +244,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/michael.korwin-pawlowski.php">Michael&nbsp;Korwin-Pawlowski</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/michael.korwin-pawlowski.php">Michael&nbsp;Korwin-Pawlowski</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2008<br>
                         <b>Tél. : </b>1626<br>
                         <span class="textvsmall">michael.korwin-pawlowski@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/ahmed.lakhssassi.php">
@@ -236,15 +263,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/ahmed.lakhssassi.php">Ahmed&nbsp;Lakhssassi</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/ahmed.lakhssassi.php">Ahmed&nbsp;Lakhssassi</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2014<br>
                         <b>Tél. : </b>1610<br>
                         <span class="textvsmall">ahmed.lakhssassi@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/frederic.lesage.php">
@@ -253,15 +282,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/frederic.lesage.php">Frédéric&nbsp;Lesage</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/frederic.lesage.php">Frédéric&nbsp;Lesage</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-0125<br>
                         <b>Tél. : </b>1620<br>
                         <span class="textvsmall">frederic.lesage@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/luigi.logrippo.php">
@@ -270,15 +301,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/luigi.logrippo.php">Luigi&nbsp;Logrippo</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/luigi.logrippo.php">Luigi&nbsp;Logrippo</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2010<br>
                         <b>Tél. : </b>1885<br>
                         <span class="textvsmall">luigi.logrippo@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/rokia.missaoui.php">
@@ -304,15 +337,16 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/andrzej.pelc.php">Andrzej&nbsp;Pelc</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/andrzej.pelc.php">Andrzej&nbsp;Pelc</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2028<br>
                         <b>Tél. : </b>1625<br>
                         <span class="textvsmall">andrzej.pelc@uqo.ca</span>
                     </div>
                 </div>
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/shamsodin.taheri.php">
@@ -321,15 +355,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/shamsodin.taheri.php">Shamsodin&nbsp;Taheri</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/shamsodin.taheri.php">Shamsodin&nbsp;Taheri</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2006<br>
                         <b>Tél. : </b>1608<br>
                         <span class="textvsmall">shamsodin.taheri@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/larbi.talbi.php">
@@ -338,15 +374,17 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/larbi.talbi.php">Larbi&nbsp;Talbi</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/larbi.talbi.php">Larbi&nbsp;Talbi</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2036<br>
                         <b>Tél. : </b>1721<br>
                         <span class="textvsmall">larbi.talbi@uqo.ca</span>
                     </div>
                 </div>
+
+
                 <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/marek.zaremba.php">
@@ -355,17 +393,16 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/marek.zaremba.php">Marek&nbsp;Zaremba</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/marek.zaremba.php">Marek&nbsp;Zaremba</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2030<br>
                         <b>Tél. : </b>1616<br>
                         <span class="textvsmall">marek.zaremba@uqo.ca</span>
                     </div>
                 </div>
             </div>
-            <p>&nbsp;</p>
         </div>
     </div>
 
