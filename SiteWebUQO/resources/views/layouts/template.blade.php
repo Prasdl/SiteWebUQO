@@ -40,7 +40,10 @@
         }
 
         body{
-            background-image: {{ url('img/Background.png') }}
+            background-image:url('/img/Background.png');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
         }
 
         .main {

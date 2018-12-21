@@ -1,8 +1,6 @@
 Fichier todo:
 
 Liste pour Martine:
-
--Fixer le bug qui fait que les images ne load pas dans la template (regarder le code que le prof t'as envoyé?)
 -Faire des panels qui se collapse et s'expand pour les pages de contenu (Professeurs, etc.)
 -Ajouter de la validation sur les champs de création des offres d'emplois
 
