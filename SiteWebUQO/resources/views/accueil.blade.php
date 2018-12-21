@@ -3,9 +3,12 @@
 
 @section('template')
 
-    <!-- Test, y'a de quoi qui ne marche pas avec le background image <style>body{background-image: {{ asset('img/UniversiteBackground.jpg') }}}</style> -->
-
-
+<style>
+    .carousel slide{
+        z-index: 1;
+        position:absolute;
+    }
+</style>
 
     <div class="container">
         <h2>Bienvenu</h2>
