@@ -424,47 +424,75 @@
         </div>
     </div>
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Alan">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseAlan" aria-expanded="false" aria-controls="collapseAlan">
+                    <img alt="Alan Davoust" style="border:1px solid" width="143" height="143" src="/img/personne/AlanDavoust.png">
+                    <p style="color: black">Alan&nbsp;Davoust</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseAlan" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(...)</p>
+                <p>Position :  </p>
+                <p>Bureau : B-2073, Pavillon Lucien-Brault</p>
+            </div>
+        </div>
+    </div>
 
 
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/alan.davoust.php">
-                            <img alt="Alan Davoust" style="border:1px solid" width="143" height="143" src="/img/personne/AlanDavoust.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/alan.davoust.php">Alan&nbsp;Davoust</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2073<br>
-                        <b>Tél. : </b> <br>
-                        <span class="textvsmall"> </span>
-                    </div>
-                </div>
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Tinko">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTinko" aria-expanded="false" aria-controls="collapseTinko">
+                    <img alt="Tinko Eftimov" style="border:1px solid" width="143" height="143" src="/img/personne/TinkoEftimov.png">
+                    <p style="color: black">Tinko&nbsp;Eftimov</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseTinko" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université de Sofia)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2018, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1734</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Tinko Eftimov" href="mailto:tinko.eftimov@uqo.ca">tinko.eftimov@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/photonique/En/TEftimov.php">http://w3.uqo.ca/photonique/En/TEftimov.php</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Fibres optiques, polarisation, capteurs fibre optiques, multiplexage, fluorescence, calcul matriciel, conception des composants et modules optiques et spectroscopiques, éconophysique</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=tinko.eftimov@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN0123_2017_1_01.html">GEN0123&nbsp;&nbsp;Physique mécanique et optique</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1123_2017_1_01.html">GEN1123&nbsp;&nbsp;Électronique II</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1653_2017_3_01.html">GEN1653&nbsp;&nbsp;Électromagnétisme appliqué</a>&nbsp;&nbsp;(Aut 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1033_2017_3_01.html">GEN1033&nbsp;&nbsp;Statique</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/tinko.eftimov.php">
-                            <img alt="Tinko Eftimov" style="border:1px solid" width="143" height="143" src="/img/personne/TinkoEftimov.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/tinko.eftimov.php">Tinko&nbsp;Eftimov</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2018<br>
-                        <b>Tél. : </b>1734<br>
-                        <span class="textvsmall">tinko.eftimov@uqo.ca</span>
-                    </div>
-                </div>
 
 
-                <div class="entry">
+
+
+    <div class="entry">
                     <div class="picture">
                         <a href="dyn/profs/karim.elguemhioui.php">
                             <img alt="Karim El Guemhioui" style="border:1px solid" width="143" height="143" src="/img/personne/KarimElGuemhioui.png">
