@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" />
 
     <!-- Le boostrap  -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
     <!-- Librairies pour le DateTimePicker -->
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -91,7 +93,23 @@
             display: block;
         }
 
-        /*footer*/
+        /* Modal */
+        .modal-backdrop.in{
+            z-index: auto;
+        }
+
+        .modal-dialog{
+            width: 30%;
+        }
+
+        .modal-header{
+            background-color: #337AB7;
+            padding:16px 16px;
+            color:#FFF;
+            border-bottom:2px dashed #337AB7;
+        }
+
+        /* Footer */
         .col_white { color:#FFF;}
         footer { width:100%; background-color:#222222; position: fixed;  bottom: 0px; padding:10px 0px 25px 0px ;}
         .pt2 { padding-top:40px ; margin-bottom:20px ;}
@@ -146,7 +164,40 @@
 
 <body>
 
-<!–– Bar de navigation  ––>
+<?php 
+    //Le modal est ici parce qu'il ne doit pas etre dans la NavBar.
+    //Objet Modal
+    echo "<div id='loginModal' class='modal fade' role='dialog>";
+        echo "<div class='modal-dialog' style='width: 600px; margin-left: 650px; margin-top: 100px;'>";
+            //Contenu du Modal
+            echo "<div class='modal-content'>";
+                //Header
+                echo "<div class='modal-header'>";
+                    echo "<button type='button' class='close' data-dismiss='modal'";
+                    echo "&times";
+                    echo "</button>";
+                    echo "<h4 class='modal-title' style='color: white;'>";
+                    echo "Connexion (Doit fix)";
+                    echo "</h4>";
+                echo "</div>";
+                //Body
+                echo "<div class='modal-body'>";
+                    echo "<p>";
+                    echo "Inserer le form ici pour login";
+                    echo "</p>";
+                echo "</div>";
+                //Footer
+                echo "<div class='modal-footer'>";
+                    echo "<button type='button' class='btn btn-default' data-dismiss='modal'>";
+                    echo "Fermer";
+                    echo "</button>";
+                echo "</div>";
+            echo "</div>";
+        echo "</div>";
+    echo "</div>";
+?>
+
+<!–– Barre de navigation  ––>
 <div class="navtop"  style="position: fixed;top: 0px;" >
     <nav class="navbar navbar-inverse" style="padding-left: 500px; >
         <a  href="https://uqo.ca/"></a> <!-- Ca sert a rien mais ca empeche le reste de briser ou de faire apparaite un "UQO" pour rien -->
@@ -204,14 +255,19 @@
                         echo "</div>";                   
                     echo "</li>";
                 } else {
+                    //Credit Modal: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
                     echo "<li>";
-                    echo "<a href='/login'>Se connecter</a>";
+                    //echo "<a href='/login'>Se connecter</a>";
+                        //Trigger le modal
+                        echo "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#loginModal'>";
+                        echo "Connexion";
+                        echo "</button>";
                     echo "</li>";
                 }
             ?>
 
             <li ><a onclick="show();"><span class="glyphicon glyphicon-search"  ></span></a></li>
-
+            
             <li style="padding-top: 10px;">
                 <form id="txtrecherche" method="get" style="display: none" action="http://www.google.com/search">
                     <input type="text" name="q" size="31" maxlength="255" value="" />
