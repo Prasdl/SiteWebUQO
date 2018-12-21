@@ -271,48 +271,128 @@
             </div>
         </div>
 
+        <!-- Le "panel"   -->
+        <div class="card">
+            <div class="card-header" id="Ilham">
+                <h5 class="mb-0">
+                    <!-- Le bouton du "panel"   -->
+                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseIlham" aria-expanded="false" aria-controls="collapseIlham">
+                        <img alt="Ilham Benyahia" style="border:1px solid" width="143" height="143" src="/img/personne/IlhamBenyahia.png">
+                        <p style="color: black">Ilham&nbsp;Benyahia</p>
+                    </button>
+                </h5>
+            </div>
+
+            <!-- Le contenu  du "panel"  (cacher par défaut) -->
+            <div id="collapseIlham" class="collapse" >
+                <div class="card-body">
 
 
-
-
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/ilham.benyahia.php">
-                            <img alt="Ilham Benyahia" style="border:1px solid" width="143" height="143" src="/img/personne/IlhamBenyahia.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/ilham.benyahia.php">Ilham&nbsp;Benyahia</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2034<br>
-                        <b>Tél. : </b>1749<br>
-                        <span class="textvsmall">ilham.benyahia@uqo.ca</span>
-                    </div>
+                    <p>&nbsp;&nbsp;&nbsp;Ph.D.</p>
+                    <p>(Université de Paris 6)</p>
+                    <p>Position :  Professeur régulier</p>
+                    <p>Bureau : B-2034, Pavillon Lucien-Brault</p>
+                    <p>Téléphone : (819) 595-3900 poste 1749</p>
+                    <p>Courriel : <a title="Envoyer un courriel au professeur Ilham Benyahia" href="mailto:ilham.benyahia@uqo.ca">ilham.benyahia@uqo.ca</a></p>
+                    <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/benyahia/">http://w3.uqo.ca/benyahia/</a></p>
+                    <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                    <p>Gestion des informations, architecture des logiciels, systèmes temps réel, algorithmes génétiques, gestion de réseaux de télécommunication, programmation génétique, cadres réutilisables.</p>
+                    <p class="profEnteteSection">Publications:</p>
+                    <ul>
+                        <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=ilham.benyahia@uqo.ca">page</a></li>
+                    </ul>
+                    <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                    <ul>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF3803_2014_3_01.html">INF3803&nbsp;&nbsp;Télématique</a>&nbsp;&nbsp;(Aut 2014)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1183_2015_3_01.html">INF1183&nbsp;&nbsp;Intelligence artificielle</a>&nbsp;&nbsp;(Aut 2015)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1573_2016_1_01.html">INF1573&nbsp;&nbsp;Programmation II</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6273_2016_3_01.html">INF6273&nbsp;&nbsp;Technologies avancées en télécommunication</a>&nbsp;&nbsp;(Aut 2016)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1183_2017_1_01.html">INF1183&nbsp;&nbsp;Intelligence artificielle</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF3803_2017_3_01.html">INF3803&nbsp;&nbsp;Télématique</a>&nbsp;&nbsp;(Aut 2017)</li>
+                        <li class="cours">
+                            <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6273_2017_3_01.html">INF6273&nbsp;&nbsp;Technologies avancées en télécommunication</a>&nbsp;&nbsp;(Aut 2017)</li>
+                    </ul>
+                    <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                    <ul>
+                        <li>Thomas&nbsp;Legault,&nbsp;Automatisation de la spécification des comportements temps réel par des traitements adaptatifs&nbsp;(2005, M.Sc.)</li>
+                        <li>Vincent&nbsp;Talbot,&nbsp;Mécanismes de décision préservant la performance des systèmes distribués dynamiques&nbsp;(2010, M.Sc.)</li>
+                        <li>Karim&nbsp;Baratli,&nbsp;Conception et implémentation d'un outil de filtrage de netlist pour un système de prototypage rapide&nbsp;(2012, M.Sc., codirecteur)</li>
+                        <li>Hanene&nbsp;Ben Yedder,&nbsp;Gestion adaptative des véhicules d'urgence utilisant des informations en temps réel.&nbsp;(2014, M.Sc.)</li>
+                        <li>Nora&nbsp;Belghazi,&nbsp;Système adaptatif multicritère d'avertissements véhiculaires basé sur le comportement des conducteurs.&nbsp;(2015, M.Sc.)</li>
+                        <li>Christian&nbsp;Dechamplain,&nbsp;Étude de solutions pour l'optimisation de l'équité et la qualité de service des flux dans les réseaux Vanet avec adressage conditionnel.&nbsp;(2015, M.Sc.)</li>
+                    </ul>
+                    <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                    <ul>
+                        <li>Giancarlo&nbsp;Colmenares Sayago,&nbsp;Un système multiagent pour  la conduite coopérative basée sur la  visualisation 3 D&nbsp;(Doctorat)</li>
+                        <li>Tayeb&nbsp;Mesbah,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                        <li>Bappa&nbsp;Muktar,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                        <li>Ghazal&nbsp;Rouhafzay,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                        <li>Claude Francis&nbsp;Njoh Njoh,&nbsp;Classification et prédiction de différents modèles de trafic dans un réseau de transport.&nbsp;(Maîtrise)</li>
+                    </ul>
                 </div>
+            </div>
+        </div>
+
+        <!-- Le "panel"   -->
+        <div class="card">
+            <div class="card-header" id="Wojtek">
+                <h5 class="mb-0">
+                    <!-- Le bouton du "panel"   -->
+                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseWojtek" aria-expanded="false" aria-controls="collapseWojtek">
+                        <img alt="Wojtek J. Bock" style="border:1px solid" width="143" height="143" src="/img/personne/WojtekJ.Bock.png">
+                        <p style="color: black">Wojtek J.&nbsp;Bock</p>
+                    </button>
+                </h5>
+            </div>
+
+            <!-- Le contenu  du "panel"  (cacher par défaut) -->
+            <div id="collapseWojtek" class="collapse" >
+                <div class="card-body">
 
 
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/wojtek.bock.php">
-                            <img alt="Wojtek J. Bock" style="border:1px solid" width="143" height="143" src="/img/personne/WojtekJ.Bock.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/wojtek.bock.php">Wojtek J.&nbsp;Bock</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2016<br>
-                        <b>Tél. : </b>1623<br>
-                        <span class="textvsmall">wojtek.bock@uqo.ca</span>
-                    </div>
+                    <p>&nbsp;&nbsp;&nbsp;Ph.D.</p>
+                    <p>(École Polytechnique de Varsovie)</p>
+                    <p>Position :  Professeur régulier</p>
+                    <p>Bureau : B-2016, Pavillon Lucien-Brault</p>
+                    <p>Téléphone : (819) 595-3900 poste 1623</p>
+                    <p>Courriel : <a title="Envoyer un courriel au professeur Wojtek J. Bock" href="mailto:wojtek.bock@uqo.ca">wojtek.bock@uqo.ca</a></p>
+                    <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/labopto/">http://w3.uqo.ca/labopto/</a></p>
+                    <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                    <p>Senseurs en fibres optiques, métrologie et calibration de paramètres non-électriques, optoélectronique.</p>
+                    <p class="profEnteteSection">Groupes de recherche : </p>
+                    <ul>
+                        <li><a href="http://w3.uqo.ca/d_info/">titulaire de la Chaire de recherche du Canada en photonique</a></li>
+                    </ul>
+                    <p class="profEnteteSection">Publications:</p>
+                    <ul>
+                        <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=wojtek.bock@uqo.ca">page</a></li>
+                    </ul>
+                    <p class="profEnteteSection">Prix et distinctions : </p>
+                    <ul>
+                        <li>Prix d'excellence en recherche de l'UQO en 1998</li>
+                    </ul>
+                    <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                    <ul>
+                        <li>Aleksandra&nbsp;Czapla,&nbsp;Propriétés spectrales des réseaux à longue période dotées de cristaux liquides.&nbsp;(2015, Ph.D.)</li>
+                        <li>Fatiha&nbsp;Djebbar,&nbsp;Architecture logicielle distribuée pour un système d'instrumentation générique et temps réel basé sur la nouvelle génération des senseurs photoniques&nbsp;(2003, M.Sc.)</li>
+                    </ul>
+                    <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                    <ul>
+                        <li>Daniel&nbsp;Brabant,&nbsp;Modelling ant optimization of long period gratings for sensing applications.&nbsp;(Doctorat)</li>
+                        <li>Yasser&nbsp;Chiniforooshan,&nbsp;Novel Fiber-optic Fluorescence Sensor for Highly Sensitive and Specific Detection of Chemical Hazards&nbsp;(Doctorat)</li>
+                        <li>Monika&nbsp;Janik,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    </ul>
+
                 </div>
+            </div>
+        </div>
+
 
 
                 <div class="entry">
