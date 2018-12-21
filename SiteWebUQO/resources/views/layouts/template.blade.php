@@ -53,7 +53,7 @@
             height: 100%;
             padding-top: 52px;
             padding-bottom: 595px;
-            background-color: #d8d8d8;
+            background-color: #EFEFEF;
             width:75%;
             margin: auto;
         }
@@ -150,6 +150,11 @@
         .social_footer_ul li { padding-left:20px; padding-top:0px; float:left; }
         .social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
         .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+
+        .mb-0{
+            color:#323f45;
+        }
+
     </style>
 
 
