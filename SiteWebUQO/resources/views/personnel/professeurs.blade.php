@@ -130,10 +130,10 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/alain.charbonneau.php">Alain&nbsp;Charbonneau</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/alain.charbonneau.php">Alain&nbsp;Charbonneau</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2026<br>
                         <b>Tél. : </b>1704<br>
                         <span class="textvsmall">alain.charbonneau@uqo.ca</span>
@@ -149,10 +149,10 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/jurek.czyzowicz.php">Jurek&nbsp;Czyzowicz</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/jurek.czyzowicz.php">Jurek&nbsp;Czyzowicz</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2020<br>
                         <b>Tél. : </b>1618<br>
                         <span class="textvsmall">jurek@uqo.ca</span>
@@ -320,10 +320,10 @@
                     </div>
                     <div class="status2">&nbsp;</div>
                     <div class="textsmall">
-<span class="textbold">
-<a href="dyn/profs/rokia.missaoui.php">Rokia&nbsp;Missaoui</a>
-<br>
-</span>
+                    <span class="textbold">
+                    <a href="dyn/profs/rokia.missaoui.php">Rokia&nbsp;Missaoui</a>
+                    <br>
+                    </span>
                         <b>Bur. : </b>B-2032<br>
                         <b>Tél. : </b>1709<br>
                         <span class="textvsmall">rokia.missaoui@uqo.ca</span>

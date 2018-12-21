@@ -10,6 +10,7 @@
     }
 </style>
 
+<!-- Le carousel -->
     <div class="container">
         <h2>Bienvenu</h2>
         <div  class="carousel slide" data-ride="carousel">
@@ -27,8 +28,6 @@
                     <img src="/img/infoLogo.png"  style="width:100%;">
                 </div>
             </div>
-
-
         </div>
     </div>
 
