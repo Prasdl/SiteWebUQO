@@ -40,7 +40,7 @@
         }
 
         body{
-            background-image: {{ asset('img/UniversiteBackground.jpg') }}
+            background-image: {{ url('img/Background.png') }}
         }
 
         .main {
