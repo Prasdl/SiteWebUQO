@@ -488,46 +488,109 @@
     </div>
 
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Karim">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseKarim" aria-expanded="false" aria-controls="collapseKarim">
+                    <img alt="Karim El Guemhioui" style="border:1px solid" width="143" height="143" src="/img/personne/KarimElGuemhioui.png">
+                    <p style="color: black">Karim&nbsp;El Guemhioui</p>
+                </button>
+            </h5>
+        </div>
 
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseKarim" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université du Connecticut)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-0123, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1620</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Karim El Guemhioui" href="mailto:karim.elguemhioui@uqo.ca">karim.elguemhioui@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/karim/">http://w3.uqo.ca/karim/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Ingénierie logicielle. Orienté-objet. Systèmes distribués. Ingénierie dirigée par les modèles. Middleware.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=karim.elguemhioui@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1423_2015_1_01.html">GEN1423&nbsp;&nbsp;Génie logiciel</a>&nbsp;&nbsp;(Hiv 2015)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6031_2015_1_01.html">INF6031&nbsp;&nbsp;Rédaction et présentation scientifiques</a>&nbsp;&nbsp;(Hiv 2015)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6253_2017_1_01.html">INF6253&nbsp;&nbsp;Web sémantique</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6031_2017_1_01.html">INF6031&nbsp;&nbsp;Rédaction et présentation scientifiques</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1163_2017_3_01.html">INF1163&nbsp;&nbsp;Modélisation et conception orientée objet</a>&nbsp;&nbsp;(Aut 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/MAT1153_2017_3_01.html">MAT1153&nbsp;&nbsp;Structures discrètes</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Aymeric Hubert&nbsp;Nys,&nbsp;Conception d'un service de licence transparent et évolutif pour CORBA&nbsp;(2005, M.Sc.)</li>
+                    <li>Jamal&nbsp;Abd-Ali,&nbsp;Métamodélisation et transformation automatique de PSM dans une approche MDA&nbsp;(2006, M.Sc.)</li>
+                    <li>Pascal&nbsp;Savard,&nbsp;Étude des techniques de marche en environnement virtuel de bureau&nbsp;(2007, M.Sc.)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Ebru&nbsp;Dalbudak,&nbsp;Utilisation des Méthodes Agiles et simulation dans les projets en Technologie de l’Information.&nbsp;(Doctorat, codirecteur)</li>
+                    <li>Jamal&nbsp;Abd-Ali,&nbsp;Spécification des exigences de contrôle d’accès en modèles.&nbsp;(Doctorat)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Michal">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseMichal" aria-expanded="false" aria-controls="collapseMichal">
+                    <img alt="Michal Iglewski" style="border:1px solid" width="143" height="143" src="/img/personne/MichalIglewski.png">
+                    <p style="color: black">Michal&nbsp;Iglewski</p>
+                </button>
+            </h5>
+        </div>
 
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseMichal" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Institut informatique de l'académie polonaise des sciences)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2024, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1602</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Michal Iglewski" href="mailto:iglewski@uqo.ca">iglewski@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/iglewski">http://w3.uqo.ca/iglewski</a></p>
+            </div>
+            <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+            <p>Génielogiciel, méthodes formelles, tests, internet, traitement automatique du langage naturel.</p>
+            <p class="profEnteteSection">Publications:</p>
+            <ul>
+                <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=iglewski@uqo.ca">page</a></li>
+            </ul>
+            <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+            <ul>
+                <li class="cours">
+                    <a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1583_2017_3_01.html">INF1583&nbsp;&nbsp;Développement des systèmes informatiques</a>&nbsp;&nbsp;(Aut 2017)</li>
+            </ul>
+            <p class="profEnteteSection">Étudiants ayant terminé : </p>
+            <ul>
+                <li>Luis Eugenio&nbsp;Cardenas,&nbsp;Génération automatique de tests à partir de la spécification de besoins&nbsp;(2007, M.Sc.)</li>
+                <li>Éric&nbsp;Lafleur,&nbsp;Évaluation de la qualité des applications web&nbsp;(2008, M.Sc.)</li>
+                <li>Ibrahim&nbsp;Keita,&nbsp;Sécurité des services Web: restauration d'un message SOAP après détection d'une attaque par enveloppement sur un élément signé.&nbsp;(2010, M.Sc., codirecteur)</li>
+            </ul>
+            <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+            <ul>
+                <li>Wassim&nbsp;El-Kass,&nbsp;Intégration des environnements de traitements du Web sémantique et de l'information non-structuré.&nbsp;(Doctorat, codirecteur)</li>
+                <li>Samir&nbsp;Chabou,&nbsp;Reconnaissance sémantique et contextuelle des entités et relations médicales pour répondre à des questions médicales bilingues basées sur le modèle PICO.&nbsp;(Doctorat)</li>
+                <li>Valérie&nbsp;Levasseur,&nbsp;Utilisation du type de question dans la recherche sémantique d'articles médicaux avec la méthodologie PICO.&nbsp;(Maîtrise)</li>
+                <li>Osman Hachi&nbsp;Mohamed,&nbsp;L'identification des éléments Intervention et Comparaison dans les textes médicaux&nbsp;(Maîtrise)</li>
+            </ul>
+        </div>
+    </div>
+    </div>
 
-    <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/karim.elguemhioui.php">
-                            <img alt="Karim El Guemhioui" style="border:1px solid" width="143" height="143" src="/img/personne/KarimElGuemhioui.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/karim.elguemhioui.php">Karim&nbsp;El Guemhioui</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-0123<br>
-                        <b>Tél. : </b>1620<br>
-                        <span class="textvsmall">karim.elguemhioui@uqo.ca</span>
-                    </div>
-                </div>
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/michal.iglewski.php">
-                            <img alt="Michal Iglewski" style="border:1px solid" width="143" height="143" src="/img/personne/MichalIglewski.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/michal.iglewski.php">Michal&nbsp;Iglewski</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2024<br>
-                        <b>Tél. : </b>1602<br>
-                        <span class="textvsmall">iglewski@uqo.ca</span>
-                    </div>
-                </div>
 
 
                 <div class="entry">
