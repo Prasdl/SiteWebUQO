@@ -8,7 +8,7 @@
         <div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Claudine Morais" style="border:1px solid" width="143" height="143" src="/img/ClaudineMorais.png">
+                    <img alt="Claudine Morais" style="border:1px solid" width="143" height="143" src="/img/personne/ClaudineMorais.png">
                 </div>
                 <div class="infos">
                 <span class="textbold">Claudine&nbsp;Morais<br>
@@ -26,7 +26,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Josée Charlebois" style="border:1px solid" width="143" height="143" src="/img/placeholderPerson.jpg">
+                    <img alt="Josée Charlebois" style="border:1px solid" width="143" height="143" src="/img/personne/placeholderPerson.jpg">
                 </div>
                 <div class="infos">
 <span class="textbold">Josée&nbsp;Charlebois<br>
@@ -43,7 +43,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Sharon Beaulne" style="border:1px solid" width="143" height="143" src="/img/placeholderPerson.jpg">
+                    <img alt="Sharon Beaulne" style="border:1px solid" width="143" height="143" src="/img/personne/placeholderPerson.jpg">
                 </div>
                 <div class="infos">
 <span class="textbold">Sharon&nbsp;Beaulne<br>
@@ -60,7 +60,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Antoine Shaneen" style="border:1px solid" width="143" height="143" src="/img/AntoineShaneen.png">
+                    <img alt="Antoine Shaneen" style="border:1px solid" width="143" height="143" src="/img/personne/AntoineShaneen.png">
                 </div>
                 <div class="infos">
 <span class="textbold">Antoine&nbsp;Shaneen<br>
@@ -77,7 +77,7 @@
             </div>
             <div class="entrypersonnel">
                 <div class="picture">
-                    <img alt="Abdelkrim Chebihi" style="border:1px solid" width="143" height="143" src="/img/AbdelkrimChebihi.png">
+                    <img alt="Abdelkrim Chebihi" style="border:1px solid" width="143" height="143" src="/img/personne/AbdelkrimChebihi.png">
                 </div>
                 <div class="infos">
 <span class="textbold">Abdelkrim&nbsp;Chebihi<br>

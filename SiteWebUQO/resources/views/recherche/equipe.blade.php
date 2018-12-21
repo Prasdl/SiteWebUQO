@@ -18,7 +18,7 @@
             <div class="card-header" id="photonique">
                 <h5 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapsephotonique" aria-expanded="false" aria-controls="collapsephotonique">
-
+                            <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/photonique.png">
                         </button>
                 </h5>
             </div>
@@ -40,7 +40,7 @@
             <div class="card-header" id="CALDI">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseCALDI" aria-expanded="false" aria-controls="collapseCALDI">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/CALDI.png">
                     </button>
                 </h5>
             </div>
@@ -61,7 +61,7 @@
             <div class="card-header" id="LARIM">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLARIM" aria-expanded="false" aria-controls="collapseLARIM">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/LARIM.png">
                     </button>
                 </h5>
             </div>
@@ -84,7 +84,7 @@
             <div class="card-header" id="LSSI">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLSSI" aria-expanded="false" aria-controls="collapseLSSI">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/LSSI.png">
                     </button>
                 </h5>
             </div>
@@ -106,7 +106,7 @@
             <div class="card-header" id="LRSI">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLRSI" aria-expanded="false" aria-controls="collapseLRSI">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/LRSI.png">
                     </button>
                 </h5>
             </div>
@@ -128,7 +128,7 @@
             <div class="card-header" id="LIMA">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLIMA" aria-expanded="false" aria-controls="collapseLIMA">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/LIMA.png">
                     </button>
                 </h5>
             </div>
@@ -148,7 +148,7 @@
             <div class="card-header" id="LRCL">
                 <h5 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLRCL" aria-expanded="false" aria-controls="collapseLRCL">
-
+                        <img alt="photonique" style="border:1px solid" width="100" height="100" src="/img/LRCL.png">
                     </button>
                 </h5>
             </div>
@@ -162,7 +162,6 @@
             </div>
         </div>
     </ul>
-
 
 @endsection
 
