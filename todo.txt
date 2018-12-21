@@ -16,7 +16,7 @@ Liste pour JP:
 
 Liste générale:
 
--Mettre un carousel dans la page d'acceuil, enlever les annonces
+-carousel arrager les images
 -Hoster le site
 
 -BUG: L'image de fond ne load pas, je sais pas pourquoi
