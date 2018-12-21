@@ -16,7 +16,7 @@ Liste pour JP:
 
 Liste générale:
 
--carousel arrager les images
+-carousel arrager les images (taille/et tourver mieux)
 -Hoster le site
 
 -BUG: L'image de fond ne load pas, je sais pas pourquoi

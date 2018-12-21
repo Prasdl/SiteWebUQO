@@ -199,8 +199,8 @@
 
 <!–– Barre de navigation  ––>
 <div class="navtop"  style="position: fixed;top: 0px;" >
-    <nav class="navbar navbar-inverse" style="padding-left: 500px; >
-        <a  href="https://uqo.ca/"></a> <!-- Ca sert a rien mais ca empeche le reste de briser ou de faire apparaite un "UQO" pour rien -->
+    <nav class="navbar navbar-inverse" style="padding-left: 500px"; >
+        <a href="https://uqo.ca/"></a>
         <ul class="nav navbar-nav">
         <li><a class="navbar-brand" href="https://uqo.ca/">UQO</a></li>
             <li><a href="/">Acceuil</a></li>
