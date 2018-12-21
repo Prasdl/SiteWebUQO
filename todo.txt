@@ -1,7 +1,7 @@
 Fichier todo:
 
 Liste pour Martine:
--Faire des panels qui se collapse et s'expand pour les pages de contenu (Professeurs, etc.)
+-Faire des panels qui se collapse et s'expand pour les pages de contenu (Professeurs  4/21,informatique ?)
 -Ajouter de la validation sur les champs de création des offres d'emplois
 
 Liste pour JP:
