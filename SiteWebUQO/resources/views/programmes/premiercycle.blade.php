@@ -5,7 +5,7 @@
 @section('template')
 
 
-    <h1>Programmes d'études de 1er cycle:</h1>
+    <h1>Programmes d'études de 1er cycle</h1>
 
     <li>Programmes de baccalauréat</li>
     <ul>
@@ -35,7 +35,7 @@
     <li><a href="https://apps.uqo.ca/AdmissionEnLigne/Directives.aspx">Demande d'admission en ligne</a></li>
 
 
-    <h1>Renseignements utiles pour les étudiants de 1er cycle en génie:</h1>
+    <h1>Renseignements utiles pour les étudiants de 1er cycle en génie</h1>
     <ul>
         <li><p><a href="http://w4.uqo.ca/dii/pdf/gesficweb14032014.pdf">l'UQO met à la disposition de tous un espace disque de 100Mo sur le réseau
                     qui est accessible directement d'un ordinateur de l'UQO (disque U:)
@@ -50,7 +50,7 @@
         <li><p><a href="">Associations professionnelles</a></p></li>
     </ul>
 
-    <h1>Renseignements utiles pour les étudiants de 1er cycle de l'informatique:</h1>
+    <h1>Renseignements utiles pour les étudiants de 1er cycle de l'informatique</h1>
     <ul>
         <li><p><a href="">Équivalence des cours</a></p></li>
         <li><p><a href="http://etudier.uqo.ca/horaire">Horaire des cours (heure, salle)</a></p></li>

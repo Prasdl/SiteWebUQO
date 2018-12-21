@@ -11,7 +11,7 @@
                 <h5 class="mb-0">
                     <!-- Le bouton du "panel"   -->
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseProgrammes" aria-expanded="false" aria-controls="collapseProgrammes">
-                        <p>Programmes d'études</p>
+                        <p style="color: black">Programmes d'études</p>
                     </button>
                 </h5>
             </div>
@@ -63,7 +63,7 @@
             <h5 class="mb-0">
                 <!-- Le bouton du "panel"   -->
                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEtudiants1" aria-expanded="false" aria-controls="collapseEtudiants1">
-                    <p>Étudiants de 1er cycle</p>
+                    <p style="color: black">Étudiants de 1er cycle</p>
                 </button>
             </h5>
         </div>
@@ -95,7 +95,6 @@
             </div>
         </div>
     </div>
-
 
         <!-- Le "panel"   -->
         <div class="card">

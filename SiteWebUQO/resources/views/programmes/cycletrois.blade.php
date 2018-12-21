@@ -4,7 +4,7 @@
 
 @section('template')
 
-<h1>Programmes d'études de 3e cycle:</h1>
+<h1>Programmes d'études de 3e cycle</h1>
     <ul>
 
         <li><p><a href="https://apps.uqo.ca/AdmissionEnLigne/Directives.aspx">Demande d'admission en ligne</a></p></li>
@@ -15,7 +15,7 @@
             </ul>
     </ul>
 
-    <h1>Renseignements utiles pour les étudiants de 3e cycle:</h1>
+    <h1>Renseignements utiles pour les étudiants de 3e cycle</h1>
     <ul>
 
         <li><p>Formulaires</p></li>
