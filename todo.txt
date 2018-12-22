@@ -1,10 +1,9 @@
 Fichier todo:
 
 Liste pour Martine:
--le carousel,l'image rendre belle
+
 
 Liste pour JP:
-
 -Finir le CSS du modal
 -Finir d'implémenter le login et le register dans le modal
 -Ajouter un bouton pour contacter les gens qui affichent les offres
