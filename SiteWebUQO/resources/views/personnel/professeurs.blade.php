@@ -106,7 +106,6 @@
                     </button>
                 </h5>
             </div>
-
             <!-- Le contenu  du "panel"  (cacher par défaut) -->
             <div id="collapseMohand" class="collapse" >
                 <div class="card-body">
@@ -163,7 +162,6 @@
                     </button>
                 </h5>
             </div>
-
             <!-- Le contenu  du "panel"  (cacher par défaut) -->
             <div id="collapseNadia" class="collapse" >
                 <div class="card-body">
@@ -223,7 +221,6 @@
                     </button>
                 </h5>
             </div>
-
             <!-- Le contenu  du "panel"  (cacher par défaut) -->
             <div id="collapseIlham" class="collapse" >
                 <div class="card-body">
@@ -282,7 +279,6 @@
                     </button>
                 </h5>
             </div>
-
             <!-- Le contenu  du "panel"  (cacher par défaut) -->
             <div id="collapseWojtek" class="collapse" >
                 <div class="card-body">
@@ -335,7 +331,6 @@
                     </button>
                 </h5>
             </div>
-
             <!-- Le contenu  du "panel"  (cacher par défaut) -->
             <div id="collapseAlain" class="collapse" >
                 <div class="card-body">
@@ -377,7 +372,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseJurek" class="collapse" >
             <div class="card-body">
@@ -435,7 +429,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseAlan" class="collapse" >
             <div class="card-body">
@@ -459,7 +452,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseTinko" class="collapse" >
             <div class="card-body">
@@ -499,7 +491,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseKarim" class="collapse" >
             <div class="card-body">
@@ -551,7 +542,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseMichal" class="collapse" >
             <div class="card-body">
@@ -603,7 +593,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseMichael" class="collapse" >
             <div class="card-body">
@@ -648,7 +637,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseAhmed" class="collapse" >
             <div class="card-body">
@@ -714,7 +702,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseFrederic" class="collapse" >
             <div class="card-body">
@@ -754,7 +741,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseLuigi" class="collapse" >
             <div class="card-body">
@@ -824,7 +810,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseRokia" class="collapse" >
             <div class="card-body">
@@ -894,7 +879,6 @@
                 </button>
             </h5>
         </div>
-
         <!-- Le contenu  du "panel"  (cacher par défaut) -->
         <div id="collapseAndrzej" class="collapse" >
             <div class="card-body">
@@ -968,25 +952,169 @@
     </div>
 
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Shamsodin">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseShamsodin" aria-expanded="false" aria-controls="collapseShamsodin">
+                    <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="/img/personne/ShamsodinTaheri.png">
+                    <p style="color: black">Shamsodin&nbsp;Taheri</p>
+                </button>
+            </h5>
+        </div>
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseShamsodin" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université du Québec à Chicoutimi)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2006, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1608</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Shamsodin Taheri" href="mailto:shamsodin.taheri@uqo.ca">shamsodin.taheri@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/tahesh01/">http://w3.uqo.ca/tahesh01/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Électronique de puissance, Conversion de l'énergie, La transmission et distribution de l'énergie électrique, Énergies renouvelables,  Énergie éolienne, L'ingénierie des hautes tensions, Modélisation des systèmes électriques.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=shamsodin.taheri@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1173_2016_3_01.html">GEN1173&nbsp;&nbsp;Systèmes asservis</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/MAT0123_2016_3_01.html">MAT0123&nbsp;&nbsp;Calcul différentiel et intégral</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1753_2016_3_01.html">GEN1753&nbsp;&nbsp;Machines électriques</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1153_2017_1_01.html">GEN1153&nbsp;&nbsp;Électrotechnique</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1083_2017_1_01.html">GEN1083&nbsp;&nbsp;Dynamique des systèmes I</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1663_2017_3_01.html">GEN1663&nbsp;&nbsp;Électronique de puissance</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Seyedkazem&nbsp;Hosseini,&nbsp;&nbsp;(Doctorat)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 
-                            <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="/img/personne/ShamsodinTaheri.png">
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Larbi">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLarbi" aria-expanded="false" aria-controls="collapseLarbi">
+                    <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="/img/personne/LarbiTalbi.png">
+                    <p style="color: black">Larbi&nbsp;Talbi</p>
+                </button>
+            </h5>
+        </div>
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseLarbi" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université Laval)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2036, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1721</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Larbi Talbi" href="mailto:larbi.talbi@uqo.ca">larbi.talbi@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/talbla01/">http://w3.uqo.ca/talbla01/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Communications sans-fil, électronique générale, techniques de mesures radiométriques, technologie micro-onde et UHF, télécommunications.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=larbi.talbi@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF9073_2014_1_01.html">INF9073&nbsp;&nbsp;Séminaire en sciences et technologies de l'information</a>&nbsp;&nbsp;(Hiv 2014)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6163_2014_3_01.html">INF6163&nbsp;&nbsp;Introduction à la cryptographie</a>&nbsp;&nbsp;(Aut 2014)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF4023_2016_3_01.html">INF4023&nbsp;&nbsp;Architecture des ordinateurs I</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1433_2017_1_01.html">GEN1433&nbsp;&nbsp;Systèmes de communication</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1143_2017_3_01.html">GEN1143&nbsp;&nbsp;Électromagnétisme</a>&nbsp;&nbsp;(Aut 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6163_2017_3_01.html">INF6163&nbsp;&nbsp;Introduction à la cryptographie</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Ismaïl&nbsp;Ben Mabrouk,&nbsp;Caractérisation d'un canal minier à Goghz utilisant un système MIMO.&nbsp;(2012, Ph.D.)</li>
+                    <li>Mohamed Tahar&nbsp;Haddad,&nbsp;Anticipation des crises d'épilepsie temporale combinant des méthodes statistiques et non-linéaires d'analyse d'électroencéphalographie.&nbsp;(2014, Ph.D.)</li>
+                    <li>Imène&nbsp;Sassi,&nbsp;Développement de nouveaux modèles de cellules métamatériaux pour les applications en Radiofréquences.&nbsp;(2015, Ph.D.)</li>
+                    <li>Bruno&nbsp;Ouellet,&nbsp;Étude d'intégration d'une interface réseau sans fil au sein de la technologie relais sous-réseau (Subnetwork Relay - SNR)&nbsp;(2004, M.Sc.)</li>
+                    <li>Youssef&nbsp;Rissafi,&nbsp;Caractérisation d'un canal minier souterrain ultra-large bande (3 à 10 GHZ)&nbsp;(2007, M.Sc.)</li>
+                    <li>Lahlou&nbsp;Ouchiha,&nbsp;Essaie: Classification supervisée de documents études comparatives&nbsp;(2016, M.Sc.)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Moustapha&nbsp;Mbaye,&nbsp;Conception d'un récepteur en technologie GIS&nbsp;(Doctorat)</li>
+                    <li>Betty&nbsp;Savitri,&nbsp;Réalisation d'un réseau d'antennes basé sur la matrice de Butler en ulitisant les métamatériaux.&nbsp;(Doctorat)</li>
+                    <li>Ousama&nbsp;Abu Safia,&nbsp;Développement de nouveaux types de ligne de transmission à base d'inclusions/Cellules métamatériaux et leurs applications potentielles.&nbsp;(Doctorat)</li>
+                    <li>Vincent&nbsp;Fono,&nbsp;Modélisation analystique des mécanismes de propagation à l'intérieur d'une mine souterraine.&nbsp;(Doctorat)</li>
+                    <li>Moulay&nbsp;El Azhari,&nbsp;à déterminer&nbsp;(Doctorat)</li>
+                    <li>Yassine&nbsp;Zouaoui,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Salem&nbsp;Bousnadji,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Salem&nbsp;Bousnadji,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Mustapha&nbsp;Bennai,&nbsp;Caractérisation du canal indoor/outdoor pour les systems de la 5G dans les ondes millimétriques.&nbsp;(Doctorat)</li>
+                    <li>Youssef&nbsp;Karmous,&nbsp;Modélisation numérique de circuits analogiques/RF/optiques.&nbsp;(Maîtrise)</li>
+                    <li>Hmaied&nbsp;Moujahed,&nbsp;Réalisation d'un détecteur de crise épileptique&nbsp;(Maîtrise)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
-                    <a href="dyn/profs/shamsodin.taheri.php">Shamsodin&nbsp;Taheri</a>
-
-
-
-
-                            <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="/img/personne/LarbiTalbi.png">
-
-                    <a href="dyn/profs/larbi.talbi.php">Larbi&nbsp;Talbi</a>
-
-
-
-
-                            <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="/img/personne/MarekZaremba.png">
-
-                    <a href="dyn/profs/marek.zaremba.php">Marek&nbsp;Zaremba</a>
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Marek">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseMarek" aria-expanded="false" aria-controls="collapseMarek">
+                    <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="/img/personne/MarekZaremba.png">
+                    <p style="color: black">Marek&nbsp;Zaremba</p>
+                </button>
+            </h5>
+        </div>
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseMarek" class="collapse" >
+            <div class="card-body">
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2030, Pavillon Lucien-Brault</p>
+                <p>Téléphone : (819) 595-3900 poste 1616</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Marek Zaremba" href="mailto:marek.zaremba@uqo.ca">marek.zaremba@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/zaremba/">http://w3.uqo.ca/zaremba/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Réseaux neuronaux, systèmes adaptatifs, graphisme par ordinateur, automatique systèmes en temps réel, traitement réparti.</p>
+                <p class="profEnteteSection">Groupes de recherche : </p>
+                <ul>
+                    <li><a href="http://w3.uqo.ca/zaremba/LSSI/">Laboratoire de Systèmes Spatiaux Intelligents</a></li>
+                </ul>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=marek.zaremba@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Prix et distinctions : </p>
+                <ul>
+                    <li>Président de l'IFAC - Canada</li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN6103_2016_1_01.html">GEN6103&nbsp;&nbsp;Robotique</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1593_2016_3_01.html">GEN1593&nbsp;&nbsp;Robotique et vision artificielle</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1093_2017_1_01.html">GEN1093&nbsp;&nbsp;Dynamique des systèmes II</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1173_2017_3_01.html">GEN1173&nbsp;&nbsp;Systèmes asservis</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Nicolas&nbsp;Therrien,&nbsp;Évaluation de techniques d'indexage pour la fusion de représentations&nbsp;(2007, M.Sc.)</li>
+                    <li>Pablo Julian&nbsp;Pedrocca,&nbsp;Classification des eaux en fonction de la réponse aux senseurs à distance (images satellites).&nbsp;(2014, M.Sc.)</li>
+                    <li>Hasna&nbsp;Hocini,&nbsp;Modèle de représentation des relations spatiales pour le système d'écriture des signes signwriting.&nbsp;(2015, M.Sc.)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Juan Carlos&nbsp;Davila Mesa,&nbsp;Modèles intégrés d'apprentissage automatique pour le monitoring de systèmes multimodaux.&nbsp;(Doctorat)</li>
+                    <li>Fadi&nbsp;Halal,&nbsp;Contrôle hybride de la navigation pour les robots à comportement multiples.&nbsp;(Doctorat)</li>
+                    <li>Giancarlo&nbsp;Colmenares Sayago,&nbsp;Un système multiagent pour  la conduite coopérative basée sur la  visualisation 3 D&nbsp;(Doctorat, codirecteur)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 
 
