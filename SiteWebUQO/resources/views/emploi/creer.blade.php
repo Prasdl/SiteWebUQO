@@ -9,9 +9,10 @@
     <?php
     
     // définition des variables et leurs initialisation
-    $EmployeurError = $coordoError = $connError = $nbetuError = $descripError ="";
-    $emp = $coordo = $conn = $descrip = $nbetu = "";
-    /*
+    $EmployeurError = $coordoError = $connError = $nbetuError = $descripError  ="";
+    $emp = $coordo = $conn = $descrip = $nbetu =  "";
+
+    //vérifier si il y a un nom
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($_POST["Employeur"])) {
         $EmployeurError = "L'employeur est requis";
@@ -23,13 +24,42 @@
         }
     }
 
+        //vérifier si il y a les coordonnées
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             if (empty($_POST["coordo"])) {
                 $coordoError = "Les coordonnées sont requises";
             }
+            else {
+                $emp = test_input($_POST["Employeur"]);
+                // vérifier si le nom ne contient que des lettres et des espaces
+                if (!preg_match("/^[0-9]",$emp)) {
+                    $EmployeurError = "Seules les nombre sont autoriseés";
+                }
         }
+
+        //vérifier si il y a un nombre plus que 0
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            if (empty($_POST["$nbetu"])) {
+                $nbetuError = "Ils faut un nombre minimun d'étudiants";
+            }
+        }
+
+        //vérifier si il y a une description
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            if (empty($_POST["$descrip"])) {
+                $descripError = "Ils faut une description de l'emplois";
+            }
+        }
+
+        //vérifier si il y a les connaissances spécifique
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            if (empty($_POST["$conn"])) {
+                $connError = "Ils faut les connaissances spécifique";
+            }
+        }
+
     }
-    */
+
     ?>
 
     <form method="post" action="/emploi/creer">
@@ -49,10 +79,10 @@
         </select>
         <br><br>
         Connaissances spécifiques: <textarea name="Connaissances" rows="5" cols="40"><?php echo $conn;?></textarea>
-        <span class="error"><?php echo $connError;?></span>
+        <span class="error">*<?php echo $connError;?></span>
         <br><br>
         Description Emploi: <textarea name="DescriptionEmploi" rows="5" cols="40"><?php echo $descrip;?></textarea>
-        <span class="error"><?php echo $descripError;?></span>
+        <span class="error">*<?php echo $descripError;?></span>
         <br><br>
         Nombre d'étudiants: <input type="text" name="NombreEtudiants" value="<?php echo $nbetu;?>">
         <span class="error">* <?php echo $nbetuError;?></span>
