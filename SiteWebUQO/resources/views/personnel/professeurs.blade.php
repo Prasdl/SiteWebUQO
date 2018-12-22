@@ -813,102 +813,181 @@
         </div>
     </div>
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Rokia">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseRokia" aria-expanded="false" aria-controls="collapseRokia">
+                    <img alt="Rokia Missaoui" style="border:1px solid" width="143" height="143" src="/img/personne/RokiaMissaoui.png">
+                    <p style="color: black">Rokia&nbsp;Missaoui</p>
+                </button>
+            </h5>
+        </div>
 
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/rokia.missaoui.php">
-                            <img alt="Rokia Missaoui" style="border:1px solid" width="143" height="143" src="/img/personne/RokiaMissaoui.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/rokia.missaoui.php">Rokia&nbsp;Missaoui</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2032<br>
-                        <b>Tél. : </b>1709<br>
-                        <span class="textvsmall">rokia.missaoui@uqo.ca</span>
-                    </div>
-                </div>
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/andrzej.pelc.php">
-                            <img alt="Andrzej Pelc" style="border:1px solid" width="143" height="143" src="/img/personne/AndrzejPelc.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/andrzej.pelc.php">Andrzej&nbsp;Pelc</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2028<br>
-                        <b>Tél. : </b>1625<br>
-                        <span class="textvsmall">andrzej.pelc@uqo.ca</span>
-                    </div>
-                </div>
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/shamsodin.taheri.php">
-                            <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="/img/personne/ShamsodinTaheri.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/shamsodin.taheri.php">Shamsodin&nbsp;Taheri</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2006<br>
-                        <b>Tél. : </b>1608<br>
-                        <span class="textvsmall">shamsodin.taheri@uqo.ca</span>
-                    </div>
-                </div>
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/larbi.talbi.php">
-                            <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="/img/personne/LarbiTalbi.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/larbi.talbi.php">Larbi&nbsp;Talbi</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2036<br>
-                        <b>Tél. : </b>1721<br>
-                        <span class="textvsmall">larbi.talbi@uqo.ca</span>
-                    </div>
-                </div>
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/marek.zaremba.php">
-                            <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="/img/personne/MarekZaremba.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/marek.zaremba.php">Marek&nbsp;Zaremba</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2030<br>
-                        <b>Tél. : </b>1616<br>
-                        <span class="textvsmall">marek.zaremba@uqo.ca</span>
-                    </div>
-                </div>
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseRokia" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université de Montréal)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2032, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1709</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Rokia Missaoui" href="mailto:rokia.missaoui@uqo.ca">rokia.missaoui@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/missaoui/">http://w3.uqo.ca/missaoui/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Bases de données avancées, performances, bases de données d'images, analyse formelle de concepts et treillis de Galois, prospection de données («Data Mining»).</p>
+                <p class="profEnteteSection">Groupes de recherche : </p>
+                <ul>
+                    <li><a href="http://larim.uqo.ca/index.html">LARIM : LAboratoire de Recherche sur l'Information Multimédia</a></li>
+                </ul>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=rokia.missaoui@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Prix et distinctions : </p>
+                <ul>
+                    <li>Prix d'excellence en recherche de l'UQO en 2005</li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6143_2014_3_01.html">INF6143&nbsp;&nbsp;Base de données avancées</a>&nbsp;&nbsp;(Aut 2014)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF9073_2016_1_01.html">INF9073&nbsp;&nbsp;Séminaire en sciences et technologies de l'information</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6193_2016_3_01.html">INF6193&nbsp;&nbsp;Intelligence d'affaires</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6143_2017_1_01.html">INF6143&nbsp;&nbsp;Base de données avancées</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6193_2017_3_01.html">INF6193&nbsp;&nbsp;Intelligence d'affaires</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Diah&nbsp;Anggraini,&nbsp;Impact de la disparition d'un nœud sur la structure d'un réseau social.&nbsp;(2015, Ph.D.)</li>
+                    <li>Vincent&nbsp;Guesdon,&nbsp;Détection efficace des contours&nbsp;(2004, M.Sc.)</li>
+                    <li>Ganaël&nbsp;Jatteau,&nbsp;Approximation du treillis de concepts pour la fouille de données&nbsp;(2005, M.Sc.)</li>
+                    <li>David&nbsp;Durand,&nbsp;Détection de relations spatiale entre les objets présents dans une image&nbsp;(2006, M.Sc.)</li>
+                    <li>Abdelilah&nbsp;Balamane,&nbsp;Sélection d'attributs par dimension fractale&nbsp;(2007, M.Sc.)</li>
+                    <li>Geneviève&nbsp;Roberge,&nbsp;Visualisation des résultats de la fouille des données dans les treillis des concepts&nbsp;(2007, M.Sc.)</li>
+                    <li>El Mostafa&nbsp;Fadli,&nbsp;Modélisation probabiliste des cubes de données pour la fouille et l'approximation des données&nbsp;(2011, M.Sc.)</li>
+                    <li>Beligh&nbsp;Ben Amor,&nbsp;Projection et sélection de motifs en analyse de concepts formels&nbsp;(2010, M.Sc.)</li>
+                    <li>Mohamed&nbsp;Talbi,&nbsp;Une nouvelle approche de détectionde communautés dans les réseauxsociaux&nbsp;(2013, M.Sc.)</li>
+                    <li>Ilhem&nbsp;Rima,&nbsp;Diagnostic de la dépression et prédiction de l'efficacité d'un traitement chez des patients atteints d'un désordre dépressif majeur.&nbsp;(2013, M.Sc.)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>El Mostafa&nbsp;Fadli,&nbsp;Modélisation probabiliste des cubes de données pour la fouille et l'approximation des données&nbsp;(Doctorat)</li>
+                    <li>Abir&nbsp;Messaoudi,&nbsp;Prédiction de l’évolution d’un réseau social multicouche suite à des changements de structure.&nbsp;(Doctorat)</li>
+                    <li>Abdelilah&nbsp;Balamane,&nbsp;Découverte et gestion des motifs en analyse formelle des concepts.&nbsp;(Doctorat)</li>
+                    <li>Kevin&nbsp;Emamirad,&nbsp;Conception et implémentation de nouvelle fonctionnalités dans un prototype de fouille de données.&nbsp;(Maîtrise)</li>
+                    <li>Thitary&nbsp;Kong,&nbsp;Déstabilisation d'un réseau social par élimination de nœuds et de liens clés.&nbsp;(Maîtrise)</li>
+                    <li>Sabri&nbsp;Krichen,&nbsp;Fouille et catégorisation de textes&nbsp;(Maîtrise)</li>
+                </ul>
             </div>
-
+        </div>
     </div>
+
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Andrzej">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseAndrzej" aria-expanded="false" aria-controls="collapseAndrzej">
+                    <img alt="Andrzej Pelc" style="border:1px solid" width="143" height="143" src="/img/personne/AndrzejPelc.png">
+                    <p style="color: black">Andrzej&nbsp;Pelc</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseAndrzej" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Université de Varsovie)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2028, Pavillon Lucien-Brault</p>
+                <p>Téléphone : (819) 595-3900 poste 1625</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Andrzej Pelc" href="mailto:andrzej.pelc@uqo.ca">andrzej.pelc@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/pelc">http://w3.uqo.ca/pelc</a></p>
+            </div>
+            <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+            <p>Calcul réparti, construction et analyse d'algorithmes, traitement d'informations erronées, algorithmes de communication dans les réseaux, diagnostic des systèmes multiprocesseurs.</p>
+            <p class="profEnteteSection">Groupes de recherche : </p>
+            <ul>
+                <li>
+                    <a href="http://w3.uqo.ca/pelc/caldi/index.htm">titulaire de la Chaire de recherche en calcul distribué</a></li>
+            </ul>
+            <p class="profEnteteSection">Publications:</p>
+            <ul>
+                <li>
+                    <a href="http://w3.uqo.ca/pelc/publ2.html">Liste des publications</a></li>
+            </ul>
+            <p class="profEnteteSection">Prix et distinctions : </p>
+            <ul>
+                <li>Prix d'excellence en recherche de l'UQO en 2003</li>
+                <li>Concours de vulgarisation scientifique de DÉCOUVRIR 2004 de l'ACFAS (Association francophone pour le savoir)</li>
+            </ul>
+            <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+            <ul>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF4143_2014_1_01.html">INF4143&nbsp;&nbsp;Algorithmique I</a>&nbsp;&nbsp;(Hiv 2014)</li>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6043_2014_3_01.html">INF6043&nbsp;&nbsp;Algorithmique répartie</a>&nbsp;&nbsp;(Aut 2014)</li>
+            </ul>
+            <p class="profEnteteSection">Stagiaires postdoctoraux : </p>
+            <ul>
+                <li>David Ilcinkas (2006-2007)</li>
+                <li>Euripides Markou (2003-2004)</li>
+                <li>Dariusz Kowalski (2001-2002)</li>
+                <li>Anders Dessmark (1999-2000)</li>
+                <li>Petrisor Panaite (1996-1997)</li>
+                <li>Leszek Gasieniec (1994-1995)</li>
+                <li>Bernard Mans (1993-1994)</li>
+                <li>Krzysztof Diks (1992-1994)</li>
+            </ul>
+            <p class="profEnteteSection">Étudiants ayant terminé : </p>
+            <ul>
+                <li>Samuel&nbsp;Guilbault,&nbsp;Rendez-vous asynchrone des agents mobiles dans les réseaux.&nbsp;(2014, Ph.D.)</li>
+                <li>Michel&nbsp;Paquette,&nbsp;Algorithmes de communication dans les réseaux en présence de pannes byzantines&nbsp;(2004, M.Sc.)</li>
+                <li>Éric&nbsp;Vachon,&nbsp;Recherche de trous noirs dans les réseaux informatiques à l'aide d'agents mobiles&nbsp;(2006, M.Sc.)</li>
+                <li>Katia&nbsp;Larrivée,&nbsp;La diffusion de messages dans les réseaux radio anonymes&nbsp;(2006, M.Sc.)</li>
+                <li>Samuel&nbsp;Guilbault,&nbsp;Diagnostic des pannes dans les systèmes multi-processeurs&nbsp;(2006, M.Sc.)</li>
+                <li>Madjid&nbsp;Ouharoun,&nbsp;Technologies de détection d'intruision.&nbsp;(2010, M.Sc., codirecteur)</li>
+                <li>Frédérick&nbsp;Lessard,&nbsp;Exploration optimale d'un segment de droite par deux agents mobiles.&nbsp;(2013, M.Sc., codirecteur)</li>
+                <li>Samir&nbsp;Elouasbi,&nbsp;Le temps du rendez-vous synchrone dans les arbres:algorithmes déterministes versus algorithmes aléatoires.&nbsp;(2012, M.Sc.)</li>
+                <li>Mélanie&nbsp;Roy,&nbsp;Exploration des arbres par un essaim d'agents&nbsp;(2012, M.Sc.)</li>
+                <li>Julian&nbsp;Anaya,&nbsp;Échange des messages entre agents mobiles dans les réseaux.&nbsp;(2014, M.Sc., codirecteur)</li>
+                <li>Anas&nbsp;Tiane,&nbsp;Rendez-vous synchrone dans les grilles.&nbsp;(2013, M.Sc.)</li>
+                <li>David&nbsp;Caissy,&nbsp;Exploration de graphes hamiltoniens en présence de pannes de liens.&nbsp;(2015, M.Sc.)</li>
+                <li>Miguel Vargas Martin (co-supervision à Carleton University), Enhancing hyperlink structure for improving web performance (2002, Ph.D.)</li>
+            </ul>
+            <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+            <ul>
+                <li>Kokouvi&nbsp;Hounkanli,&nbsp;Algorithmes de communication dans des modèles restreints.&nbsp;(Doctorat)</li>
+                <li>Samir&nbsp;Elouasbi,&nbsp;Algorithmes de rendez-vous avec communication&nbsp;(Doctorat)</li>
+                <li>Issam&nbsp;Boutahar,&nbsp;Rendez-vous synchrone dans les graphes avec traces distinctes.&nbsp;(Maîtrise)</li>
+                <li>Jalal&nbsp;Amarof,&nbsp;Le temps du rendez-vous synchrone dans les très grands environnements.&nbsp;(Maîtrise)</li>
+                <li>Michel Paquette (doctorat, codirection à Carleton University)</li>
+            </ul>
+        </div>
+    </div>
+    </div>
+
+
+
+
+                            <img alt="Shamsodin Taheri" style="border:1px solid" width="143" height="143" src="/img/personne/ShamsodinTaheri.png">
+
+                    <a href="dyn/profs/shamsodin.taheri.php">Shamsodin&nbsp;Taheri</a>
+
+
+
+
+                            <img alt="Larbi Talbi" style="border:1px solid" width="143" height="143" src="/img/personne/LarbiTalbi.png">
+
+                    <a href="dyn/profs/larbi.talbi.php">Larbi&nbsp;Talbi</a>
+
+
+
+
+                            <img alt="Marek Zaremba" style="border:1px solid" width="143" height="143" src="/img/personne/MarekZaremba.png">
+
+                    <a href="dyn/profs/marek.zaremba.php">Marek&nbsp;Zaremba</a>
+
 
 
 @endsection
