@@ -2,9 +2,8 @@
 
 @section('template')
 
-    <div id="contenu" class="panel panel-default">
-        <p class="text" id="cliquer">Cliquer un nom ou une photo pour avoir plus d'information sur le professeur.<br>
-        </p>
+
+        <p class="text" id="cliquer">Cliquer un nom ou une photo pour avoir plus d'information sur le professeur.<br></p>
         <!-- Le "panel"   -->
         <div class="card">
             <div class="card-header" id="Omar">
@@ -358,7 +357,7 @@
                 </ul>
             </div>
         </div>
-    </div>
+
 
 
     <!-- Le "panel"   -->
@@ -579,7 +578,7 @@
             </ul>
         </div>
     </div>
-    </div>
+
 
 
     <!-- Le "panel"   -->
@@ -623,7 +622,7 @@
             </ul>
         </div>
     </div>
-    </div>
+
 
 
     <!-- Le "panel"   -->
@@ -688,7 +687,7 @@
                 </ul>
             </div>
         </div>
-    </div>
+
 
 
     <!-- Le "panel"   -->
