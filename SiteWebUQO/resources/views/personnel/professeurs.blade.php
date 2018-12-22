@@ -592,43 +592,119 @@
     </div>
 
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Michael">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseMichael" aria-expanded="false" aria-controls="collapseMichael">
+                    <img alt="Michael Korwin-Pawlowski" style="border:1px solid" width="143" height="143" src="/img/personne/MichaelKorwin-Pawlowski.png">
+                    <p style="color: black">Michael&nbsp;Korwin-Pawlowski</p>
+                </button>
+            </h5>
+        </div>
 
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/michael.korwin-pawlowski.php">
-                            <img alt="Michael Korwin-Pawlowski" style="border:1px solid" width="143" height="143" src="/img/personne/MichaelKorwin-Pawlowski.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/michael.korwin-pawlowski.php">Michael&nbsp;Korwin-Pawlowski</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2008<br>
-                        <b>Tél. : </b>1626<br>
-                        <span class="textvsmall">michael.korwin-pawlowski@uqo.ca</span>
-                    </div>
-                </div>
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseMichael" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(University of Waterloo)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2008, Pavillon Lucien-Brault</p>
+                <p>Téléphone : (819) 595-3900 poste 1626</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Michael Korwin-Pawlowski" href="mailto:michael.korwin-pawlowski@uqo.ca">michael.korwin-pawlowski@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://www.uqo.ca/corps-professoral/prof/korwin-pawlowskimic.asp">http://www.uqo.ca/corps-professoral/prof/korwin-pawlowskimic.asp</a></p>
+            </div>
+            <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+            <p>Photonique: capteurs en fibres optiques, détection des matériaux explosifs par méthodes photoniques.
+                Microélectronique: technologies VLSI sous-nanométriques, couches diélectriques ultraminces.
+                Science de matériaux: technologies de couches minces pour capteurs en fibres optiques.
+                Science, technologies et société: effets économiques et sociaux des nouvelles technologies.</p>
+            <p class="profEnteteSection">Publications:</p>
+            <ul>
+                <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=michael.korwin-pawlowski@uqo.ca">page</a></li>
+            </ul>
+            <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+            <ul>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1123_2016_1_01.html">GEN1123&nbsp;&nbsp;Électronique II</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1363_2016_1_01.html">GEN1363&nbsp;&nbsp;Économique du génie</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1023_2017_3_01.html">GEN1023&nbsp;&nbsp;Matériaux I</a>&nbsp;&nbsp;(Aut 2017)</li>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1103_2017_3_01.html">GEN1103&nbsp;&nbsp;Électronique</a>&nbsp;&nbsp;(Aut 2017)</li>
+                <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/SOC2673_2017_3_01.html">SOC2673&nbsp;&nbsp;Science, technologie, information et société</a>&nbsp;&nbsp;(Aut 2017)</li>
+            </ul>
+        </div>
+    </div>
+    </div>
 
 
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/ahmed.lakhssassi.php">
-                            <img alt="Ahmed Lakhssassi" style="border:1px solid" width="143" height="143" src="/img/personne/AhmedLakhssassi.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/ahmed.lakhssassi.php">Ahmed&nbsp;Lakhssassi</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2014<br>
-                        <b>Tél. : </b>1610<br>
-                        <span class="textvsmall">ahmed.lakhssassi@uqo.ca</span>
-                    </div>
-                </div>
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Ahmed">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseAhmed" aria-expanded="false" aria-controls="collapseAhmed">
+                    <img alt="Ahmed Lakhssassi" style="border:1px solid" width="143" height="143" src="/img/personne/AhmedLakhssassi.png">
+                    <p style="color: black">Ahmed&nbsp;Lakhssassi</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseAhmed" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(Institut National de Recherche Scientifique)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2014, Pavillon Lucien-Brault </p>
+                <p>Téléphone :(819) 595-3900 poste 1610</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Ahmed Lakhssassi" href="mailto:ahmed.lakhssassi@uqo.ca">ahmed.lakhssassi@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/lakhsasi/">http://w3.uqo.ca/lakhsasi/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Aspects thermiques dans les Microsystèmes VLSI, systèmes embarqués et prototypage rapide sur FPGA, MEMS, réseau de senseurs embarqués, diffusion thermique dans les tissus biologique, monitorage, algorithmes de détection et de reconnaissance.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=ahmed.lakhssassi@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN6063_2014_1_SO.html">GEN6063&nbsp;&nbsp;Conception avancée des systèmes numériques programmables</a>&nbsp;&nbsp;(Hiv 2014)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN6043_2014_3_01.html">GEN6043&nbsp;&nbsp;Conception avancée de microsystèmes intégrés</a>&nbsp;&nbsp;(Aut 2014)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1333_2016_1_01.html">GEN1333&nbsp;&nbsp;Conception de circuits intégrés</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN6093_2016_3_01.html">GEN6093&nbsp;&nbsp;Conception avancée des microsystèmes intégrés</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1243_2016_3_01.html">GEN1243&nbsp;&nbsp;Conception de systèmes digitaux</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1543_2017_1_01.html">GEN1543&nbsp;&nbsp;Ingénierie : aspects professionnels, éthiques, sociaux et environnementaux</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF9006_2017_3_01.html">INF9006&nbsp;&nbsp;Examen de synthèse</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Hicham&nbsp;Chaoui,&nbsp;Implantation sur FPGA d'une loi de commande adaptative neuronale supervisée pour une articulation flexible&nbsp;(2005, M.Sc.)</li>
+                    <li>Charbel&nbsp;Boustany,&nbsp;Design et implémentation sur un circuit VLSI d'un algorithme de détection en temps réel des pics thermiques&nbsp;(2006, M.Sc.)</li>
+                    <li>Karim&nbsp;Baratli,&nbsp;Conception et implémentation d'un outil de filtrage de netlist pour un système de prototypage rapide&nbsp;(2012, M.Sc.)</li>
+                    <li>Michel&nbsp;Saydé,&nbsp;Méthode de détection de la contraintethermomécanique dans lesmicrosystèmes intégrés&nbsp;(2013, M.Sc.)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Mohammedi&nbsp;Yahya,&nbsp;Étude, modélisation et simulation du transport de chaleur dans les tissus biologiques  appliqué à la dosimétrie.&nbsp;(Doctorat)</li>
+                    <li>Fathi&nbsp;Ben Hamouda,&nbsp;Les techniques de détection de multiples sources de chaleurs.&nbsp;(Doctorat)</li>
+                    <li>Karim&nbsp;Baratli,&nbsp;Étude, conception et implémentation d'un algorithme pour la préservation de l'appariement des composantes critiques entre technologies des circuits intégrés.&nbsp;(Doctorat)</li>
+                    <li>Mariem&nbsp;Ben Hamouda,&nbsp;Étude, modélisation et simulation du transport de chaleur dans les tissus biologiques.&nbsp;(Doctorat)</li>
+                    <li>Youcef&nbsp;Fouzar,&nbsp;&nbsp;(Doctorat)</li>
+                    <li>Idir&nbsp;Mellal,&nbsp;Étude, implémentation sur puce de l'équation du transport de chaleur dans les tissus biologiques.&nbsp;(Doctorat)</li>
+                    <li>Mhamed&nbsp;Nour,&nbsp;Étude, modélisation non-linéaire du transport de chaleur dans les tissus biologique appliqué à la dosimétrie pulsée par laser.&nbsp;(Doctorat)</li>
+                    <li>Aziz&nbsp;Oukaira,&nbsp;Système de monitorage thermique dans les microsystèmes VLSI.&nbsp;(Doctorat)</li>
+                    <li>Sadreddine&nbsp;Sarray,&nbsp;Mesure des paramètres et la qualité d'un faisceau laser, et définir les paramètres critiques qui influencent la mesure, la précision, la sécurité humaine.&nbsp;(Doctorat)</li>
+                    <li>Michel&nbsp;Saydé,&nbsp;&nbsp;(Doctorat)</li>
+                    <li>Ebru&nbsp;Dalbudak,&nbsp;Utilisation des Méthodes Agiles et simulation dans les projets en Technologie de l’Information.&nbsp;(Doctorat)</li>
+                    <li>Ouafaa&nbsp;Ettahri,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Mohammed Bougataya (doctorat, UQTR)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
 
 
                 <div class="entry">
