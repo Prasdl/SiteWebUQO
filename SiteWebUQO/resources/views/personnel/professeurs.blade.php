@@ -703,46 +703,117 @@
     </div>
 
 
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Frederic">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFrederic" aria-expanded="false" aria-controls="collapseFrederic">
+                    <img alt="Frédéric Lesage" style="border:1px solid" width="143" height="143" src="/img/personne/FredericLesage.png">
+                    <p style="color: black">Frédéric&nbsp;Lesage</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseFrederic" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(McMaster University)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-0125, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1620</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Frédéric Lesage" href="mailto:frederic.lesage@uqo.ca">frederic.lesage@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/lesafr01/">http://w3.uqo.ca/lesafr01/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Thermoélectricité, conversion de l’énergie thermique, modélisation mathématique de l’ébullition, récupération thermoélectrique de l’énergie solaire, caloducs, transport thermique, réchauffement de cellules photovoltaïques.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=frederic.lesage@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1503_2015_3_01.html">GEN1503&nbsp;&nbsp;Mathématiques de l'ingénieur I</a>&nbsp;&nbsp;(Aut 2015)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1683_2017_1_01.html">GEN1683&nbsp;&nbsp;Énergies renouvelables</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1643_2017_1_01.html">GEN1643&nbsp;&nbsp;Thermodynamique</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF9073_2017_1_01.html">INF9073&nbsp;&nbsp;Séminaire en sciences et technologies de l'information</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/GEN1523_2017_1_01.html">GEN1523&nbsp;&nbsp;Mathématiques de l'ingénieur II</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Le "panel"   -->
+    <div class="card">
+        <div class="card-header" id="Luigi">
+            <h5 class="mb-0">
+                <!-- Le bouton du "panel"   -->
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseLuigi" aria-expanded="false" aria-controls="collapseLuigi">
+                    <img alt="Luigi Logrippo" style="border:1px solid" width="143" height="143" src="/img/personne/LuigiLogrippo.png">
+                    <p style="color: black">Luigi&nbsp;Logrippo</p>
+                </button>
+            </h5>
+        </div>
+
+        <!-- Le contenu  du "panel"  (cacher par défaut) -->
+        <div id="collapseLuigi" class="collapse" >
+            <div class="card-body">
+                <p>Ph.D.</p>
+                <p>(University of Waterloo)</p>
+                <p>Position :  Professeur régulier</p>
+                <p>Bureau : B-2010, Pavillon Lucien-Brault</p>
+                <p>Téléphone :(819) 595-3900 poste 1885</p>
+                <p>Courriel : <a title="Envoyer un courriel au professeur Luigi Logrippo" href="mailto:luigi.logrippo@uqo.ca">luigi.logrippo@uqo.ca</a></p>
+                <p>Plus d'informations : <a title="Visiter le site Web du professeur" href="http://w3.uqo.ca/luigi/">http://w3.uqo.ca/luigi/</a></p>
+                <p style="clear:both" class="profEnteteSection">Thèmes de recherche : </p>
+                <p>Méthodes formelles avec application à la conception de logiciels dans les domaines suivants : protocoles de communication; sécurité et contrôle d'accès;  fonctionnalités avancées dans Voix sur IP, interaction de fonctionnalités; commerce électronique; systèmes normatifs, leur analyse logique.</p>
+                <p class="profEnteteSection">Publications:</p>
+                <ul>
+                    <li>Allez voir la liste des productions dans cette <a href="http://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=luigi.logrippo@uqo.ca">page</a></li>
+                </ul>
+                <p class="profEnteteSection">Cours enseignés au cours des deux dernières années : </p>
+                <ul>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6263_2015_3_01.html">INF6263&nbsp;&nbsp;Ingénierie des protocoles de communication</a>&nbsp;&nbsp;(Aut 2015)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6153_2016_1_01.html">INF6153&nbsp;&nbsp;Système de contrôle d'accès aux données</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF6031_2016_1_01.html">INF6031&nbsp;&nbsp;Rédaction et présentation scientifiques</a>&nbsp;&nbsp;(Hiv 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF3723_2016_3_01.html">INF3723&nbsp;&nbsp;Systèmes d'exploitation</a>&nbsp;&nbsp;(Aut 2016)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF1153_2017_1_01.html">INF1153&nbsp;&nbsp;Cybercriminalité et techniques d'investigation</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF9073_2017_1_01.html">INF9073&nbsp;&nbsp;Séminaire en sciences et technologies de l'information</a>&nbsp;&nbsp;(Hiv 2017)</li>
+                    <li class="cours"><a href="http://w4.uqo.ca/d_info/dynHTML/plans/INF3723_2017_3_01.html">INF3723&nbsp;&nbsp;Systèmes d'exploitation</a>&nbsp;&nbsp;(Aut 2017)</li>
+                </ul>
+                <p class="profEnteteSection">Stagiaires postdoctoraux : </p>
+                <ul>
+                    <li>Yacine Bouzida (2008-2009)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants ayant terminé : </p>
+                <ul>
+                    <li>Omar&nbsp;Abahmane,&nbsp;Contrôle de flux d'informations basé sur la granularité.&nbsp;(2015, Ph.D.)</li>
+                    <li>Mahdi&nbsp;Mankai,&nbsp;Vérification et analyse des politiques de contrôle d'accès : Application au langage XACML&nbsp;(2006, M.Sc.)</li>
+                    <li>Ahmed Fahdel&nbsp;Layouni,&nbsp;Méthode formelle de détection d'interactions pour les politiques du contrôle d'appel téléphonique&nbsp;(2007, M.Sc.)</li>
+                    <li>Gregory&nbsp;Estienne,&nbsp;Les fonctionnalités de présence en VoIPProgrammation de services sensibles au contexte en téléphonie sur IP&nbsp;(2008, M.Sc.) </li>
+                    <li>Ikhlass&nbsp;Hattak,&nbsp;Analyse formelle des politiques de sécurité&nbsp;(2010, M.Sc., codirecteur)</li>
+                    <li>Soufiene&nbsp;Boulares,&nbsp;Méthodes formelles pour contrôle d'accès.&nbsp;(2010, M.Sc.)</li>
+                    <li>Yakine&nbsp;Layouni,&nbsp;Détection des conflits dans les politiques de contrôle d'accès&nbsp;(2010, M.Sc.)</li>
+                    <li>Hassen&nbsp;Khalifa,&nbsp;Détection des anomalies entre les contraintes dans les politiques de contrôle d'accès&nbsp;(2013, M.Sc.)</li>
+                    <li>Sourour&nbsp;Jemili,&nbsp;Analyse de risques dans les systèmes de contrôle d'accès.&nbsp;(2013, M.Sc., codirecteur)</li>
+                    <li>Bone&nbsp;Maboudou,&nbsp;Un environnement pour la modélisation des systèmes de contrôle d'accès.&nbsp;(2015, M.Sc., codirecteur)</li>
+                </ul>
+                <p class="profEnteteSection">Étudiants en cours de supervision : </p>
+                <ul>
+                    <li>Christian&nbsp;Bucur,&nbsp;Contrôle d'accès aux données.&nbsp;(Doctorat)</li>
+                    <li>Isnino&nbsp;Ibrahim Ahmed,,&nbsp;Contrôle d'accès aux données.&nbsp;(Doctorat)</li>
+                    <li>Ikhlass&nbsp;Hattak,&nbsp;Gestion de l'identité dans les architectures orientées services.&nbsp;(Doctorat, codirecteur) </li>
+                    <li>Agoh Josue&nbsp;Beke,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Abdelouadoud&nbsp;Stambouli,&nbsp;À déterminer&nbsp;(Doctorat)</li>
+                    <li>Jamal&nbsp;Abd-Ali,&nbsp;Spécification des exigences de contrôle d’accès en modèles.&nbsp;(Doctorat, codirecteur)</li>
+                    <li>Sofiene&nbsp;Boulares,&nbsp;Approche basée sur les flux d’informations pour le calcul du risque dans les systèmes de contrôle d'accès.&nbsp;(Doctorat)</li>
+                    <li>Oussama&nbsp;Hattack,&nbsp;Développement et évaluation d'une application pour analyser les politiques de contrôle d'accès aux données dans un système d'information.&nbsp;(Maîtrise)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/frederic.lesage.php">
-                            <img alt="Frédéric Lesage" style="border:1px solid" width="143" height="143" src="/img/personne/FredericLesage.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/frederic.lesage.php">Frédéric&nbsp;Lesage</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-0125<br>
-                        <b>Tél. : </b>1620<br>
-                        <span class="textvsmall">frederic.lesage@uqo.ca</span>
-                    </div>
-                </div>
-
-
-                <div class="entry">
-                    <div class="picture">
-                        <a href="dyn/profs/luigi.logrippo.php">
-                            <img alt="Luigi Logrippo" style="border:1px solid" width="143" height="143" src="/img/personne/LuigiLogrippo.png">
-                        </a>
-                    </div>
-                    <div class="status2">&nbsp;</div>
-                    <div class="textsmall">
-                    <span class="textbold">
-                    <a href="dyn/profs/luigi.logrippo.php">Luigi&nbsp;Logrippo</a>
-                    <br>
-                    </span>
-                        <b>Bur. : </b>B-2010<br>
-                        <b>Tél. : </b>1885<br>
-                        <span class="textvsmall">luigi.logrippo@uqo.ca</span>
-                    </div>
-                </div>
 
 
                 <div class="entry">
