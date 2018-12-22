@@ -1,7 +1,7 @@
 Fichier todo:
 
 Liste pour Martine:
--Ajouter de la validation sur les champs de création des offres d'emplois
+
 
 Liste pour JP:
 
