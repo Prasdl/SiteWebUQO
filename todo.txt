@@ -1,19 +1,17 @@
 Fichier todo:
 
 Liste pour Martine:
-
+-le carousel,l'image rendre belle
 
 Liste pour JP:
 
 -Finir le CSS du modal
 -Finir d'implémenter le login et le register dans le modal
--le carousel,l'image rendre belle
 -Ajouter un bouton pour contacter les gens qui affichent les offres
 -Fix le lien "Courriel" dans la Navbar "Liens utiles"
 
 Liste générale:
--Fixe  le nav bar qui est sous les images
--carousel arrager les images (taille/et tourver mieux)
+-carousel arrager les images (tourver mieux)
 -Hoster le site
 
 -BUG: Y'a de quoi qui bloque le footer dans le coin gauche en bas (Page "Offres")

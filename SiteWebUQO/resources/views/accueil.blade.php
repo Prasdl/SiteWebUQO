@@ -8,6 +8,8 @@
         z-index: 1;
         position:absolute;
     }
+    
+
 </style>
 
 <!-- Le carousel -->
@@ -18,14 +20,14 @@
             <!-- Les element du carousel -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="/img/UniversiteBackground.jpg" style="width:100%;">
+                    <img src="/img/UniversiteBackground.jpg" style="width:100%; height: 400px;">
                 </div>
                 <div class="item">
-                    <img src="/img/infoLogo2.png"  style="width:100%;">
+                    <img src="/img/infoLogo2.png"  style="width:100%; height: 400px;">
                 </div>
 
                 <div class="item">
-                    <img src="/img/infoLogo.png"  style="width:100%;">
+                    <img src="/img/infoLogo.png"  style="width:100%; height: 400px;">
                 </div>
             </div>
         </div>

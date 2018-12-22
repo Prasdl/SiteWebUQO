@@ -64,6 +64,7 @@
         {
             padding: 0px 0px;
             width: 100%;
+            z-index: 10;
         }
 
         a:hover {
@@ -81,7 +82,7 @@
             background-color:  #222222;
             min-width: 160px;
             box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-            z-index: 2;
+            z-index: 10;
         }
 
         .dropdown-content a {
