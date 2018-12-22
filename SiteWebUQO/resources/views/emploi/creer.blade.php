@@ -23,6 +23,7 @@
             $EmployeurError = "Seules les lettres et les espaces sont autorisés";
         }
     }
+    }
 
         //vérifier si il y a les coordonnées
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -36,6 +37,7 @@
                     $EmployeurError = "Seules les nombre sont autoriseés";
                 }
         }
+        }
 
         //vérifier si il y a un nombre plus que 0
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -44,6 +46,7 @@
             }
         }
 
+
         //vérifier si il y a une description
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             if (empty($_POST["$descrip"])) {
@@ -51,14 +54,13 @@
             }
         }
 
+
         //vérifier si il y a les connaissances spécifique
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             if (empty($_POST["$conn"])) {
                 $connError = "Ils faut les connaissances spécifique";
             }
         }
-
-    }
 
     ?>
 
