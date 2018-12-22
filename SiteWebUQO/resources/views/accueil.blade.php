@@ -8,7 +8,7 @@
         z-index: 1;
         position:absolute;
     }
-    
+
 
 </style>
 
@@ -27,7 +27,7 @@
                 </div>
 
                 <div class="item">
-                    <img src="/img/infoLogo.png"  style="width:100%; height: 400px;">
+                    <img src="/img/infogenie.png"  style="width:100%; height: 400px;">
                 </div>
             </div>
         </div>
