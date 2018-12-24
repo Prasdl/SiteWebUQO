@@ -324,11 +324,11 @@
                 } else {
                     //Credit Modal: https://www.w3schools.com/bootstrap/bootstrap_modal.asp
                     echo "<li>";
-                    //echo "<a href='/login'>Se connecter</a>";
+                    echo "<a href='/login'>Se connecter</a>";
                         //Trigger le modal
-                        echo "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#loginModal'>";
-                        echo "Connexion";
-                        echo "</button>";
+                        //echo "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#loginModal'>";
+                        //echo "Connexion";
+                        //echo "</button>";
                     echo "</li>";
                 }
             ?>
