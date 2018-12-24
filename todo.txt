@@ -1,12 +1,5 @@
 Fichier todo:
 
-Liste pour Martine:
-
-
-Liste pour JP:
--Ajouter un bouton pour contacter les gens qui affichent les offres
--Fix le lien "Courriel" dans la Navbar "Liens utiles"
-
 Liste générale:
 -carousel arrager les images (tourver mieux)
 -Hoster le site
