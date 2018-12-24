@@ -68,7 +68,7 @@
     @csrf
         Employeur: <input type="text" name="Employeur" value="<?php echo $emp;?>">
         <span class="error">* <?php echo $EmployeurError;?></span>
-        <br><br>
+
         Coordonnées: <input type="text" name="Coordonnees" value="<?php echo $coordo;?>">
         <span class="error">* <?php echo $coordoError;?></span>
         <br><br>
@@ -80,10 +80,10 @@
             <option>Sans importance</option>
         </select>
         <br><br>
-        Connaissances spécifiques: <textarea name="Connaissances" rows="5" cols="40"><?php echo $conn;?></textarea>
+        Connaissances spécifiques: <textarea name="Connaissances" rows="2" cols="20"><?php echo $conn;?></textarea>
         <span class="error">*<?php echo $connError;?></span>
         <br><br>
-        Description Emploi: <textarea name="DescriptionEmploi" rows="5" cols="40"><?php echo $descrip;?></textarea>
+        Description Emploi: <textarea name="DescriptionEmploi" rows="2" cols="20"><?php echo $descrip;?></textarea>
         <span class="error">*<?php echo $descripError;?></span>
         <br><br>
         Nombre d'étudiants: <input type="text" name="NombreEtudiants" value="<?php echo $nbetu;?>">
@@ -143,7 +143,7 @@
         })
 	})
     </script>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Créer">
     </form>
 
 @endsection
