@@ -188,14 +188,31 @@
                     echo "&times";
                     echo "</button>";
                     echo "<h4 class='modal-title' style='color: white;'>";
-                    echo "Connexion (Doit fix)";
                     echo "</h4>";
                 echo "</div>";
                 //Body
                 echo "<div class='modal-body'>";
                     echo "<p>";
-                    echo "Inserer le form ici pour login";
+                    echo "Connexion:";
                     echo "</p>";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
+                    echo "";
                 echo "</div>";
                 //Footer
                 echo "<div class='modal-footer'>";
