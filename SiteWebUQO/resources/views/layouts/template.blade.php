@@ -202,7 +202,7 @@
                             echo "{{ __('Adresse courriel') }}";
                             echo "</label>";
                             echo "<div class='col-md-6'>";
-                                echo "<input id='email' type='email' class='form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" name='email' value='{{ old('email') }}' required autofocus>";
+                                echo "<input id='email' type='email' class='form-control{{ $errors->has('email') ? ' is-invalid' : '' }}' name='email' value='{{ old('email') }}' required autofocus>";
                                 echo "@if ($errors->has('email'))";
                                     echo "<span class='invalid-feedback' role='alert'>";
                                     echo "<strong>{{ $errors->first('email') }}</strong>";
