@@ -4,8 +4,6 @@ Liste pour Martine:
 
 
 Liste pour JP:
--Finir le CSS du modal
--Finir d'implémenter le login et le register dans le modal (Send to register page)
 -Ajouter un bouton pour contacter les gens qui affichent les offres
 -Fix le lien "Courriel" dans la Navbar "Liens utiles"
 
